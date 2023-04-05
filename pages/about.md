@@ -13,7 +13,7 @@ credits: true
     <li class="breadcrumb-item active" aria-current="page">About</li>
   </ol>
 </nav>
-{% include feature/nav-menu.html sections="Land Acknowledgement;About the Research Team;Acknowledgements;Technical Credits" %}
+{% include feature/nav-menu.html sections="Acknowldgement of Country;About the Research Team;Acknowledgements;Technical Credits" %}
 
 ## Acknowledgement of Country
 
@@ -25,18 +25,6 @@ Records, archives, and out of home care have all played significant roles in the
 
 <h6>Mya Ballin</h6>
 Mya is a Chinese settler who was adopted from Jiangmen, China and brought to Turtle Island as the daughter of a single German-Jewish American mother in 1995. She grew up on the unceded territories of the Tamyen and Ramaytush Ohlone peoples in what is now called California. Mya's research interests include devising strategies of care in archival praxis, understanding personal experiences of bureaucratic recordkeeping, and the role of records in identify formation.
-
-
-<h6>PI, Supervisor: Jennifer Douglas</h6>
-Jennifer is an Assistant Professor at the UBC iSchool, where she teaches classes on archival arrangement and description, personal and community archives. She earned her PhD from the Faculty of Information at the University of Toronto, where she focused on the many and varied processes and agents that shape personal archives and how (inadequately) these are represented by traditional archival principles and methods. The overarching question that motivates Jennifer's research is: What are the roles of recordkeeping and archive making in the intimate and emotional lives of individuals and communities, and what are archivists’ responsibilities to support, represent and make space for these roles?
-
-<h6>Committee Member: Rebecka Sheffield</h6>
-
-Rebecka is an archivist/information professional working in the Ontario Public Service. She holds a PhD in Information Studies from the University of Toronto (UofT) iSchool and is a graduate of the Mark S. Bonham Centre for Sexual Diversity Studies. She also holds a MIST with a specialization in archives and records management (UofT) and a BA in women’s and gender studies (University of Saskatchewan). Rebecka’s research interests include digital recordkeeping, archival studies, cultural heritage, and LGBTQ2+ histories.
-
-## Acknowledgements
-
-In addition to thanking the members of my supervisory committee, I would like to acknowledge and thank UBC iSchool Program Assistant Sandy Abah for her help with navigating the institutional processes of completing a thesis.
 
 ## References
 1. Closing the Gap. Target 12. Updated 8 March 2023. Accesed 5 April 2023. https://www.pc.gov.au/closing-the-gap-data/dashboard/socioeconomic/outcome-area12.

@@ -7,7 +7,7 @@ permalink: /blog.html
 ---
 
 <div class="card" style="width: 18rem;">
-  <div class="card-header" style="font-size: 12px; background-color: #0FA3B1;">
+  <div class="card-header" style="font-size: 12px; background-color: #B8B42D;">
     December 26, 2021
   </div>
   <div class="card-body">

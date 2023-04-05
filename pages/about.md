@@ -15,11 +15,11 @@ credits: true
 </nav>
 {% include feature/nav-menu.html sections="Land Acknowledgement;About the Research Team;Acknowledgements;Technical Credits" %}
 
-## Land Acknowledgement
+## Acknowledgement of Country
 
-This research is being conducted as part of a graduate program at the University of British Columbia, which is located on the traditional, ancestral, and unceded territory of the xwməθkwəy̓əm (Musqueam) People.
+This research is being conducted as part of a graduate program at Monash University, which is located on the traditional, ancestral, and unceded lands of the people of the Kulin Nations. I wish to pay respect to their elders past and present as well as to those of the lands from which you read this message.
 
-Records, archives, and transracial adoption have all played significant roles in the traumatization and colonization of First Nations, Metis, and Inuit communities in Canada. While I am not engaging with their stories directly in this work, I come to the table with a desire to conduct research that is decolonial in its theoretical basis and practice. I hope that this work, through preliminary in scope, will be for the benefit of all transracial, transnational adoptees, including Indigenous ones.
+Records, archives, and out of home care have all played significant roles in the traumatization and colonization of First Nations and Aboriginal communities in Australia. Keeping this in mind, and considering the fact that Aboriginal and Torres Strait Islander children in care overrepresented in out-of-home-care <sup> 1 </sup>, I come to the table with a desire to conduct research that is decolonial in its theoretical basis and practice.
 
 ## About the Research Team
 
@@ -37,3 +37,6 @@ Rebecka is an archivist/information professional working in the Ontario Public S
 ## Acknowledgements
 
 In addition to thanking the members of my supervisory committee, I would like to acknowledge and thank UBC iSchool Program Assistant Sandy Abah for her help with navigating the institutional processes of completing a thesis.
+
+## References
+1. Closing the Gap. Target 12. Updated 8 March 2023. Accesed 5 April 2023. https://www.pc.gov.au/closing-the-gap-data/dashboard/socioeconomic/outcome-area12.

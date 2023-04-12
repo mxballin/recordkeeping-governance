@@ -32,17 +32,21 @@ One of the first hurdles that I have come across to starting my data exploration
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
     <div class="card-body">
      <h5>1995</h5>
-     <h6>Australia</h6>: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families begins
-     <h6>Wales</h6>: Waterhouse Inquiry
+     <h6>Australia</h6>:National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families begins
+     <h6>Wales</h6>:Waterhouse Inquiry
+     <hr>
      <h5>1996</h5>
-     <h6>South Africa</h6>: Truth and Reconciliation Commission begins
+     <h6>South Africa</h6>:Truth and Reconciliation Commission begins
+     <hr>
      <h5>1997</h5> 
-     <h6>Canada</h6>: Law Commission of Canada's investigation of child abuse in Canadian institutions begins
-     <h6>Australia</h6>: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families concludes with the release of the `Bringing Them Home` report
+     <h6>Canada</h6>:Law Commission of Canada's investigation of child abuse in Canadian institutions begins
+     <h6>Australia</h6>:National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families concludes with the release of the `Bringing Them Home` report
+     <hr>
      <h5>1998</h5>
-     <h6>South Africa</h6>: Truth and Reconciliation Commission final report is released
+     <h6>South Africa</h6>:Truth and Reconciliation Commission final report is released
+     <hr>
      <h5>1999</h5>
-     <h6>Ireland</h6>: Commission to Inquire into Child Abuse begins
+     <h6>Ireland</h6>:Commission to Inquire into Child Abuse begins
       </div>
     </div>
   </div>

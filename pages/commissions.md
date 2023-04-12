@@ -32,17 +32,17 @@ One of the first hurdles that I have come across to starting my data exploration
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
     <div class="card-body">
      <h6>1995</h6>
-     **Australia**: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families begins
-     **Wales**: Waterhouse Inquiry
+     <h7>Australia</h7>: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families begins
+     <h7>Wales</h7>: Waterhouse Inquiry
      <h6>1996</h6>
-     **South Africa**: Truth and Reconciliation Commission begins
+     <h7>South Africa</h7>: Truth and Reconciliation Commission begins
      <h6>1997</h6> 
-     **Canada**: Law Commission of Canada's investigation of child abuse in Canadian institutions begins
-     **Australia**: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families concludes with the release of the `Bringing Them Home` report
+     <h7>Canada</h7>: Law Commission of Canada's investigation of child abuse in Canadian institutions begins
+     <h7>Australia</h7>: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families concludes with the release of the `Bringing Them Home` report
      <h6>1998</h6>
-     **South Africa**: Truth and Reconciliation Commission final report is released
+     <h7>South Africa</h7>: Truth and Reconciliation Commission final report is released
      <h6>1999</h6>
-     **Ireland**: Commission to Inquire into Child Abuse begins
+     <h7>Ireland</h7>: Commission to Inquire into Child Abuse begins
       </div>
     </div>
   </div>
@@ -57,16 +57,16 @@ One of the first hurdles that I have come across to starting my data exploration
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
       <div class="card-body">
         <h6>2000</h6>
-      **Wales**: Waterhouse Inquiry concludes
-      **Canada**: Law Commission of Canada's review of child abuse in Canadian institutions concludes with the release of the 'Restoring Dignity: Responding to Child Abuse in Canadian Institutions' report
+      <h7>Wales</h7>: Waterhouse Inquiry concludes
+      <h7>Canada</h7>: Law Commission of Canada's review of child abuse in Canadian institutions concludes with the release of the 'Restoring Dignity: Responding to Child Abuse in Canadian Institutions' report
        <h6>2001</h6>
-     **England**: Inquiry into the Death of Victoria Climbie begins
+     <h7>England</h7>: Inquiry into the Death of Victoria Climbie begins
         <h6>2001</h6>
-     **England**: Inquiry into the Death of Victoria Climbie concludes
+     <h7>England</h7>: Inquiry into the Death of Victoria Climbie concludes
      <h6>2008</h6>
-     **Canada**: Truth and Reconciliation Commission begins
+     <h7>Canada</h7>: Truth and Reconciliation Commission begins
       <h6>2009</h6>
-      **Ireland**: Commission to Inquire into Child Abuse concludes with the release of the Ryan Report
+      <h7>Ireland</h7>: Commission to Inquire into Child Abuse concludes with the release of the Ryan Report
       </div>
     </div>
   </div>
@@ -81,29 +81,29 @@ One of the first hurdles that I have come across to starting my data exploration
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
 <h6>2011</h6>
-     **Australia - Victoria**: Protecting Victoria's Vulnerable Children Inquiry
+     <h7>Australia - Victoria</h7>: Protecting Victoria's Vulnerable Children Inquiry
 <h6>2013</h6>
-     **Australia**: Royal Commission into Institutional Responses to Child Sexual Abuse begins
+     <h7>Australia</h7>: Royal Commission into Institutional Responses to Child Sexual Abuse begins
 <h6>2014</h6>
-     **Australia - Victoria**: VAGO conducts and publishes Residential Care Services for Children audit
-     **Australia - South Australia**: Child Protection Systems Royal Comission
-     **Northern Ireland**: Historical Institutional Abuse Inquiry
+     <h7>Australia - Victoria</h7>: VAGO conducts and publishes Residential Care Services for Children audit
+     <h7>Australia - South Australia</h7>: Child Protection Systems Royal Comission
+     <h7>Northern Ireland</h7>: Historical Institutional Abuse Inquiry
 <h6>2015</h6>
-     **England and Wales**: Independent Inquiry into Child Sexual Abuse
-     **Scotland**: Scottish Child Abuse Inquiry
-     **Ireland**: Commission of Investigation into Mother and Baby Homes and certain related matters begins
-    **Canada**: Truth and Reconciliation Commission concludes with the release of the final report, including 94 Calls to Action.
+     <h7>England and Wales</h7>: Independent Inquiry into Child Sexual Abuse
+     <h7>Scotland</h7>: Scottish Child Abuse Inquiry
+     <h7>Ireland</h7>: Commission of Investigation into Mother and Baby Homes and certain related matters begins
+    <h7>Canada</h7>: Truth and Reconciliation Commission concludes with the release of the final report, including 94 Calls to Action.
 <h6>2016</h6>
- **Australia**: Royal Commission into the Protection and Detention of Children in the Northern Territory
-   **Australia - Victoria**: VAGO conducts and publishes follow up of Residential Care Services for Children
+ <h7>Australia</h7>: Royal Commission into the Protection and Detention of Children in the Northern Territory
+   <h7>Australia - Victoria</h7>: VAGO conducts and publishes follow up of Residential Care Services for Children
  <h6>2017</h6>
-    **Australia**: Royal Commission into Institutional Responses to Child Sexual Abuse concludes
-  **Australia**: Royal Commission into the Protection and Detention of Children in the Northern Territory concludes  
+    <h7>Australia</h7>: Royal Commission into Institutional Responses to Child Sexual Abuse concludes
+  <h7>Australia</h7>: Royal Commission into the Protection and Detention of Children in the Northern Territory concludes  
 <h6>2018</h6>
- **New Zealand**: Abuse in Care Royal Comission of Inquiry begins
+ <h7>New Zealand</h7>: Abuse in Care Royal Comission of Inquiry begins
 <h6>2019</h6>
- **Australia - Victoria**: Royal Commission into Victoria's Mental Health System
- **New Zealand**: Waitangi Tribunal Urgent Inquiry into Oranga Tamariki begins
+ <h7>Australia - Victoria</h7>: Royal Commission into Victoria's Mental Health System
+ <h7>New Zealand</h7>: Waitangi Tribunal Urgent Inquiry into Oranga Tamariki begins
       </div>
     </div>
   </div>
@@ -118,15 +118,15 @@ One of the first hurdles that I have come across to starting my data exploration
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
 <h6>2021</h6>
- **United States**: Federal Indian Boarding School Initiative begins
- **Ireland**: Commission of Investigation into Mother and Baby Homes and certain related matters concludes
- **New Zealand**: Waitangi Tribunal Urgent Inquiry into Oranga Tamariki concludes
+ <h7>United States</h7>: Federal Indian Boarding School Initiative begins
+ <h7>Ireland</h7>: Commission of Investigation into Mother and Baby Homes and certain related matters concludes
+ <h7>New Zealand</h7>: Waitangi Tribunal Urgent Inquiry into Oranga Tamariki concludes
 <h6>2022</h6>
- **United States**: Federal Indian Boarding School Initiative report released
- **Australia - Victoria**: Yoorook Justice Comission
-**New Zealand**Independent Review of the Children’s System Response to Abuse concludes
+ <h7>United States</h7>: Federal Indian Boarding School Initiative report released
+ <h7>Australia - Victoria</h7>: Yoorook Justice Comission
+<h7>New Zealand</h7>Independent Review of the Children’s System Response to Abuse concludes
 <h6>2023</h6>
- **New Zealand**: Abuse in Care Royal Comission of Inquiry is scheduled to conclude
+ <h7>New Zealand</h7>: Abuse in Care Royal Comission of Inquiry is scheduled to conclude
       </div>
     </div>
   </div>

@@ -35,9 +35,9 @@ One of the first hurdles that I have come across to starting my data exploration
      <b>Australia</b>: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families
      <b>Wales</b>: Waterhouse Inquiry
      <h6>1996</h6>
-     <b>South Africa</b>: Truth and Reconciliation Comission
+     <b>South Africa</b>: Truth and Reconciliation Commission
      <h6>1997</h6> 
-     <b>Canada</b>: Law Comission of Canada - Child Abuse
+     <b>Canada</b>: Law Commission of Canada - Child Abuse
      <h6>1999</h6>
      <b>Ireland</b>: Commission to Inquire into Child Abuse
       </div>
@@ -53,7 +53,10 @@ One of the first hurdles that I have come across to starting my data exploration
     </div>
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
       <div class="card-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+       <h6>2001</h6>
+     <b>England</b>: Inquiry into the Death of Victoria Climbie
+     <h6>2008</h6>
+     <b>Canada</b>: Truth and Reconciliation Commission
       </div>
     </div>
   </div>
@@ -67,7 +70,25 @@ One of the first hurdles that I have come across to starting my data exploration
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+<h6>2011</h6>
+     <b>Australia - Victoria</b>: Protecting Victoria's Vulnerable Children Inquiry
+<h6>2013</h6>
+     <b>Australia</b>: Royal Commission into Institutional Responses to Child Sexual Abuse
+<h6>2014</h6>
+     <b>Australia - Victoria</b>: VAGO Residential Care Services for Children
+     <b>Australia - South Australia</b>: Child Protection Systems Royal Comission
+     <b>Northern Ireland</b>: Historical Institutional Abuse Inquiry
+<h6>2015</h6>
+     <b>England and Wales</b>: Independent Inquiry into Child Sexual Abuse
+     <b>Scotland</b>: Scottish Child Abuse Inquiry
+     <b>Ireland</b>: Commission of Investigation into Mother and Baby Homes and certain related matters
+<h6>2016</h6>
+ <b>Australia</b>: Royal Commission into the Protection and Detention of Children in the Northern Territory
+<h6>2018</h6>
+ <b>New Zealand</b>: Abuse in Care Royal Comission of Inquiry
+<h6>2019</h6>
+ <b>Australia - Victoria</b>: Royal Commission into Victoria's Mental Health System
+ <b>New Zealand</b>: Waitangi Tribunal Urgent Inquiry into Oranga Tamariki
       </div>
     </div>
   </div>
@@ -81,7 +102,11 @@ One of the first hurdles that I have come across to starting my data exploration
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+<h6>2016</h6>
+ <b>United States</b>: Federal Indian Boarding School Initiative
+<h6>2016</h6>
+ <b>Australia - Victoria</b>: Yoorook Justice Comission
+<b>New Zealand</b>Independent Review of the Children’s System Response to Abuse
       </div>
     </div>
   </div>

@@ -33,7 +33,7 @@ One of the first hurdles that I have come across to starting my data exploration
     <div class="card-body">
      <h5>1995</h5>
      <h6>Australia</h6>National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families begins
-     <h6>Wales</h6>Waterhouse Inquiry
+     <h6>Wales</h6>Waterhouse Inquiry begins
      <hr>
      <h5>1996</h5>
      <h6>South Africa</h6>Truth and Reconciliation Commission begins
@@ -61,7 +61,7 @@ One of the first hurdles that I have come across to starting my data exploration
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
       <div class="card-body">
         <h5>2000</h5>
-      <h6>Wales</h6> Waterhouse Inquiry concludes
+      <h6>Wales</h6> Waterhouse Inquiry concludes with the release of 'Lost In Care – The Waterhouse Report'
       <h6>Canada</h6> Law Commission of Canada's review of child abuse in Canadian institutions concludes with the release of the 'Restoring Dignity: Responding to Child Abuse in Canadian Institutions' report
       <hr>
        <h5>2001</h5>
@@ -144,3 +144,7 @@ One of the first hurdles that I have come across to starting my data exploration
       </div>
     </div>
   </div>
+
+
+  <iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk&font=Default&lang=en&initial_zoom=2&height=100%" width="100%" frameborder="0"></iframe>
+                                

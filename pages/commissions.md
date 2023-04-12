@@ -106,7 +106,6 @@ One of the first hurdles that I have come across to starting my data exploration
  <b>New Zealand</b>: Waitangi Tribunal Urgent Inquiry into Oranga Tamariki begins
       </div>
     </div>
-  </div>
     <div class="card">
     <div class="card-header" id="headingThree">
       <h5 class="mb-0">

@@ -130,15 +130,17 @@ One of the first hurdles that I have come across to starting my data exploration
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
 <h5>2021</h5>
- <h6>United States</h6>: Federal Indian Boarding School Initiative begins
+ <h6>United States</h6> Federal Indian Boarding School Initiative begins
  <h6>Ireland</h6>: Commission of Investigation into Mother and Baby Homes and certain related matters concludes
- <h6>New Zealand</h6>: Waitangi Tribunal Urgent Inquiry into Oranga Tamariki concludes
+ <h6>New Zealand</h6> Waitangi Tribunal Urgent Inquiry into Oranga Tamariki concludes
+ <hr>
 <h5>2022</h5>
- <h6>United States</h6>: Federal Indian Boarding School Initiative report released
- <h6>Australia - Victoria</h6>: Yoorook Justice Comission
+ <h6>United States</h6> Federal Indian Boarding School Initiative report released
+ <h6>Australia - Victoria</h6> Yoorook Justice Comission begins
 <h6>New Zealand</h6>Independent Review of the Children’s System Response to Abuse concludes
+<hr>
 <h5>2023</h5>
- <h6>New Zealand</h6>: Abuse in Care Royal Comission of Inquiry is scheduled to conclude
+ <h6>New Zealand</h6> Abuse in Care Royal Comission of Inquiry is scheduled to conclude
       </div>
     </div>
   </div>

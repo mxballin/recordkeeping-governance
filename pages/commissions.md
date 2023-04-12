@@ -18,7 +18,7 @@ permalink: /blog/commissions.html
 
 One of the first hurdles that I have come across to starting my data exploration has been the creation and management of transcripts. Because interviews are being conducted and captured through Zoom, I am able to take advantage of their live captioning feature that is driven by Otter.ai and results in the creation of a VTT file.
 
-### About VTT Files
+### A Timeline of Commissions Internationally
 
 <div id="accordion">
   <div class="card">
@@ -32,7 +32,15 @@ One of the first hurdles that I have come across to starting my data exploration
 
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
       <div class="card-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+     <h6>1995</h6>
+     <b>Australia</b>: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families
+     <b>Wales</b>: Waterhouse Inquiry
+     <h6>1996</h6>
+     <b>South Africa</b>: Truth and Reconciliation Comission
+     <h6>1997</h6> 
+     <b>Canada</b>: Law Comission of Canada - Child Abuse
+     <h6>1999</h6>
+     <b>Ireland</bs>: Commission to Inquire into Child Abuse
       </div>
     </div>
   </div>

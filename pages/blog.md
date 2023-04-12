@@ -11,9 +11,8 @@ permalink: /blog.html
     December 26, 2021
   </div>
   <div class="card-body">
-    <h5 class="card-title">Transcript Cleaning</h5>
-    <h6 class="card-subtitle mb-2 text-muted">From VTT to CSV</h6>
-    <p class="card-text">A proposed workflow for converting and cleaning files captured by Zoom into coding-ready transcripts.</p>
-    <a href="/technical/transcriptcleaning.html" class="btn btn-success">Read on</a>
+    <h5 class="card-title">Mapping Commissions</h5>
+    <p class="card-text">A timeline and analysis of investigations relating to the care of children.</p>
+    <a href="/blog/commissions.html" class="btn btn-success">Read on</a>
   </div>
 </div>

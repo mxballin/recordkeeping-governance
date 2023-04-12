@@ -23,110 +23,110 @@ One of the first hurdles that I have come across to starting my data exploration
 <div id="accordion">
   <div class="card">
     <div class="card-header" id="headingOne">
-      <h5 class="mb-0">
+      <h4 class="mb-0">
         <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
           before 2000
         </button>
-      </h5>
+      </h4>
     </div>
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
     <div class="card-body">
-     <h6>1995</h6>
-     <h7>Australia</h7>: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families begins
-     <h7>Wales</h7>: Waterhouse Inquiry
-     <h6>1996</h6>
-     <h7>South Africa</h7>: Truth and Reconciliation Commission begins
-     <h6>1997</h6> 
-     <h7>Canada</h7>: Law Commission of Canada's investigation of child abuse in Canadian institutions begins
-     <h7>Australia</h7>: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families concludes with the release of the `Bringing Them Home` report
-     <h6>1998</h6>
-     <h7>South Africa</h7>: Truth and Reconciliation Commission final report is released
-     <h6>1999</h6>
-     <h7>Ireland</h7>: Commission to Inquire into Child Abuse begins
+     <h5>1995</h5>
+     <h6>Australia</h6>: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families begins
+     <h6>Wales</h6>: Waterhouse Inquiry
+     <h5>1996</h5>
+     <h6>South Africa</h6>: Truth and Reconciliation Commission begins
+     <h5>1997</h5> 
+     <h6>Canada</h6>: Law Commission of Canada's investigation of child abuse in Canadian institutions begins
+     <h6>Australia</h6>: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families concludes with the release of the `Bringing Them Home` report
+     <h5>1998</h5>
+     <h6>South Africa</h6>: Truth and Reconciliation Commission final report is released
+     <h5>1999</h5>
+     <h6>Ireland</h6>: Commission to Inquire into Child Abuse begins
       </div>
     </div>
   </div>
   <div class="card">
     <div class="card-header" id="headingTwo">
-      <h5 class="mb-0">
+      <h4 class="mb-0">
         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
           2000-2009
         </button>
-      </h5>
+      </h4>
     </div>
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
       <div class="card-body">
-        <h6>2000</h6>
-      <h7>Wales</h7>: Waterhouse Inquiry concludes
-      <h7>Canada</h7>: Law Commission of Canada's review of child abuse in Canadian institutions concludes with the release of the 'Restoring Dignity: Responding to Child Abuse in Canadian Institutions' report
-       <h6>2001</h6>
-     <h7>England</h7>: Inquiry into the Death of Victoria Climbie begins
-        <h6>2001</h6>
-     <h7>England</h7>: Inquiry into the Death of Victoria Climbie concludes
-     <h6>2008</h6>
-     <h7>Canada</h7>: Truth and Reconciliation Commission begins
-      <h6>2009</h6>
-      <h7>Ireland</h7>: Commission to Inquire into Child Abuse concludes with the release of the Ryan Report
+        <h5>2000</h5>
+      <h6>Wales</h6>: Waterhouse Inquiry concludes
+      <h6>Canada</h6>: Law Commission of Canada's review of child abuse in Canadian institutions concludes with the release of the 'Restoring Dignity: Responding to Child Abuse in Canadian Institutions' report
+       <h5>2001</h5>
+     <h6>England</h6>: Inquiry into the Death of Victoria Climbie begins
+        <h5>2001</h5>
+     <h6>England</h6>: Inquiry into the Death of Victoria Climbie concludes
+     <h5>2008</h5>
+     <h6>Canada</h6>: Truth and Reconciliation Commission begins
+      <h5>2009</h5>
+      <h6>Ireland</h6>: Commission to Inquire into Child Abuse concludes with the release of the Ryan Report
       </div>
     </div>
   </div>
   <div class="card">
     <div class="card-header" id="headingThree">
-      <h5 class="mb-0">
+      <h4 class="mb-0">
         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
           2010-2019
         </button>
-      </h5>
+      </h4>
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
-<h6>2011</h6>
-     <h7>Australia - Victoria</h7>: Protecting Victoria's Vulnerable Children Inquiry
-<h6>2013</h6>
-     <h7>Australia</h7>: Royal Commission into Institutional Responses to Child Sexual Abuse begins
-<h6>2014</h6>
-     <h7>Australia - Victoria</h7>: VAGO conducts and publishes Residential Care Services for Children audit
-     <h7>Australia - South Australia</h7>: Child Protection Systems Royal Comission
-     <h7>Northern Ireland</h7>: Historical Institutional Abuse Inquiry
-<h6>2015</h6>
-     <h7>England and Wales</h7>: Independent Inquiry into Child Sexual Abuse
-     <h7>Scotland</h7>: Scottish Child Abuse Inquiry
-     <h7>Ireland</h7>: Commission of Investigation into Mother and Baby Homes and certain related matters begins
-    <h7>Canada</h7>: Truth and Reconciliation Commission concludes with the release of the final report, including 94 Calls to Action.
-<h6>2016</h6>
- <h7>Australia</h7>: Royal Commission into the Protection and Detention of Children in the Northern Territory
-   <h7>Australia - Victoria</h7>: VAGO conducts and publishes follow up of Residential Care Services for Children
- <h6>2017</h6>
-    <h7>Australia</h7>: Royal Commission into Institutional Responses to Child Sexual Abuse concludes
-  <h7>Australia</h7>: Royal Commission into the Protection and Detention of Children in the Northern Territory concludes  
-<h6>2018</h6>
- <h7>New Zealand</h7>: Abuse in Care Royal Comission of Inquiry begins
-<h6>2019</h6>
- <h7>Australia - Victoria</h7>: Royal Commission into Victoria's Mental Health System
- <h7>New Zealand</h7>: Waitangi Tribunal Urgent Inquiry into Oranga Tamariki begins
+<h5>2011</h5>
+     <h6>Australia - Victoria</h6>: Protecting Victoria's Vulnerable Children Inquiry
+<h5>2013</h5>
+     <h6>Australia</h6>: Royal Commission into Institutional Responses to Child Sexual Abuse begins
+<h5>2014</h5>
+     <h6>Australia - Victoria</h6>: VAGO conducts and publishes Residential Care Services for Children audit
+     <h6>Australia - South Australia</h6>: Child Protection Systems Royal Comission
+     <h6>Northern Ireland</h6>: Historical Institutional Abuse Inquiry
+<h5>2015</h5>
+     <h6>England and Wales</h6>: Independent Inquiry into Child Sexual Abuse
+     <h6>Scotland</h6>: Scottish Child Abuse Inquiry
+     <h6>Ireland</h6>: Commission of Investigation into Mother and Baby Homes and certain related matters begins
+    <h6>Canada</h6>: Truth and Reconciliation Commission concludes with the release of the final report, including 94 Calls to Action.
+<h5>2016</h5>
+ <h6>Australia</h6>: Royal Commission into the Protection and Detention of Children in the Northern Territory
+   <h6>Australia - Victoria</h6>: VAGO conducts and publishes follow up of Residential Care Services for Children
+ <h5>2017</h5>
+    <h6>Australia</h6>: Royal Commission into Institutional Responses to Child Sexual Abuse concludes
+  <h6>Australia</h6>: Royal Commission into the Protection and Detention of Children in the Northern Territory concludes  
+<h5>2018</h5>
+ <h6>New Zealand</h6>: Abuse in Care Royal Comission of Inquiry begins
+<h5>2019</h5>
+ <h6>Australia - Victoria</h6>: Royal Commission into Victoria's Mental Health System
+ <h6>New Zealand</h6>: Waitangi Tribunal Urgent Inquiry into Oranga Tamariki begins
       </div>
     </div>
   </div>
     <div class="card">
     <div class="card-header" id="headingThree">
-      <h5 class="mb-0">
+      <h4 class="mb-0">
         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
           2020 - present
         </button>
-      </h5>
+      </h4>
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
-<h6>2021</h6>
- <h7>United States</h7>: Federal Indian Boarding School Initiative begins
- <h7>Ireland</h7>: Commission of Investigation into Mother and Baby Homes and certain related matters concludes
- <h7>New Zealand</h7>: Waitangi Tribunal Urgent Inquiry into Oranga Tamariki concludes
-<h6>2022</h6>
- <h7>United States</h7>: Federal Indian Boarding School Initiative report released
- <h7>Australia - Victoria</h7>: Yoorook Justice Comission
-<h7>New Zealand</h7>Independent Review of the Children’s System Response to Abuse concludes
-<h6>2023</h6>
- <h7>New Zealand</h7>: Abuse in Care Royal Comission of Inquiry is scheduled to conclude
+<h5>2021</h5>
+ <h6>United States</h6>: Federal Indian Boarding School Initiative begins
+ <h6>Ireland</h6>: Commission of Investigation into Mother and Baby Homes and certain related matters concludes
+ <h6>New Zealand</h6>: Waitangi Tribunal Urgent Inquiry into Oranga Tamariki concludes
+<h5>2022</h5>
+ <h6>United States</h6>: Federal Indian Boarding School Initiative report released
+ <h6>Australia - Victoria</h6>: Yoorook Justice Comission
+<h6>New Zealand</h6>Independent Review of the Children’s System Response to Abuse concludes
+<h5>2023</h5>
+ <h6>New Zealand</h6>: Abuse in Care Royal Comission of Inquiry is scheduled to conclude
       </div>
     </div>
   </div>

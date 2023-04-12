@@ -29,9 +29,8 @@ One of the first hurdles that I have come across to starting my data exploration
         </button>
       </h5>
     </div>
-
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-      <div class="card-body">
+    <div class="card-body">
      <h6>1995</h6>
      <b>Australia</b>: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families
      <b>Wales</b>: Waterhouse Inquiry
@@ -40,7 +39,7 @@ One of the first hurdles that I have come across to starting my data exploration
      <h6>1997</h6> 
      <b>Canada</b>: Law Comission of Canada - Child Abuse
      <h6>1999</h6>
-     <b>Ireland</bs>: Commission to Inquire into Child Abuse
+     <b>Ireland</b>: Commission to Inquire into Child Abuse
       </div>
     </div>
   </div>
@@ -86,4 +85,3 @@ One of the first hurdles that I have come across to starting my data exploration
       </div>
     </div>
   </div>
-</div>

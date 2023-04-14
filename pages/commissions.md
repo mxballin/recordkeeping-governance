@@ -16,7 +16,7 @@ permalink: /blog/commissions.html
 
 # A Timeline of Commissions Investigating Conduct Related to the Care of Children
 
-{% include feature/image.html src="/commissionsviz_files/figure-html/unnamed-chunk-2-1.png"%}
+<img src="https://raw.githubusercontent.com/mxballin/recordkeeping-governance/main/commissionsviz_files/figure-html/unnamed-chunk-2-1.png" class="img-fluid" alt="Responsive image">
 
 <div id="accordion">
   <div class="card">

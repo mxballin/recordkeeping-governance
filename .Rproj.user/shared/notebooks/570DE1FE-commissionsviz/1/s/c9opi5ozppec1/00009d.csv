@@ -1,5 +1,0 @@
-"0","commissions <- read.csv(""commissionsdatabaseggplot.csv"", stringsAsFactors = F)"
-"0","commissions$start <- as.Date(commissions$start, format=""%d/%m/%Y"")"
-"0","commissions$end <- as.Date(commissions$end,format=""%d/%m/%Y"")"
-"0",""
-"0","commissions"

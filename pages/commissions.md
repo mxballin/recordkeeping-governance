@@ -14,8 +14,9 @@ permalink: /blog/commissions.html
   </ol>
 </nav>
 
-
 # A Timeline of Commissions Investigating Conduct Related to the Care of Children
+
+{% include feature/image.html src="/commissionsviz_files/figure-html/unnamed-chunk-2-1.png")
 
 <div id="accordion">
   <div class="card">

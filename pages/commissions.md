@@ -29,23 +29,13 @@ permalink: /blog/commissions.html
     </div>
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
     <div class="card-body">
-     <h5>1993</h5>
-     <h6>Ireland</h6> Inquiry into the Operation of Madonna House begins
-     <hr>
      <h5>1995</h5>
-     <h6>Australia</h6><p>National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families begins</p>
+     <h6>Australia</h6><p>National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families (Stolen Generations) begins</p>
      <h6>Wales</h6>Waterhouse Inquiry begins
-     <hr>
-     <h5>1996</h5>
-      <h6>Ireland</h6><p>Inquiry into the Operation of Maddonna House concludes with the release of its final report</p>
-     <h6>South Africa</h6>Truth and Reconciliation Commission begins
      <hr>
      <h5>1997</h5> 
      <h6>Canada</h6><p>Law Commission of Canada's investigation of child abuse in Canadian institutions begins</p>
-     <h6>Australia</h6>National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families concludes with the release of the `Bringing Them Home` report
-     <hr>
-     <h5>1998</h5>
-     <h6>South Africa</h6>Truth and Reconciliation Commission final report is released
+     <h6>Australia</h6>National Inquiry into the Stolen Generations concludes with the release of the `Bringing Them Home` report
      <hr>
      <h5>1999</h5>
      <h6>Ireland</h6>Commission to Inquire into Child Abuse begins

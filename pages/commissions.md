@@ -41,16 +41,16 @@ permalink: /blog/commissions.html
 > Creating/updating codes of practice for accessing records
 
 ## Australia - Federal
-<img src="https://raw.githubusercontent.com/mxballin/recordkeeping-governance/main/commissionsviz_files/figure-html/state-commissions-1.png" class="img-fluid" alt="Responsive image">
+<img src="https://raw.githubusercontent.com/mxballin/recordkeeping-governance/main/objects/AustraliaFederal.png" class="img-fluid" alt="Responsive image">
 
 ## Australia - State
-<img src="https://raw.githubusercontent.com/mxballin/recordkeeping-governance/main/commissionsviz_files/figure-html/state-commissions-1.png" class="img-fluid" alt="Responsive image">
+<img src="https://raw.githubusercontent.com/mxballin/recordkeeping-governance/main/objects/AustraliaState.png" class="img-fluid" alt="Responsive image">
 
 ## Canada
-<img src="https://github.com/mxballin/recordkeeping-governance/blob/main/objects/Canada.png" class="img-fluid" alt="Responsive image">
+<img src="https://raw.githubusercontent.com/mxballin/recordkeeping-governance/main/objects/Canada.png" class="img-fluid" alt="Responsive image">
 
 ## Aotearoa New Zealand
-<img src="https://github.com/mxballin/recordkeeping-governance/blob/main/objects/AotearoaNewZealand.png" class="img-fluid" alt="Responsive image">
+<img src="https://raw.githubusercontent.com/mxballin/recordkeeping-governance/main/objects/AotearoaNewZealand.png" class="img-fluid" alt="Responsive image">
 
 ## UK & Ireland
-<img src="https://github.com/mxballin/recordkeeping-governance/blob/main/objects/UK.png" class="img-fluid" alt="Responsive image">
+<img src="https://raw.githubusercontent.com/mxballin/recordkeeping-governance/main/objects/UK.png" class="img-fluid" alt="Responsive image">

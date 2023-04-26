@@ -18,16 +18,27 @@ permalink: /blog/commissions.html
 
 ## Commissions Held Outside of Australia
 
-<img src="https://github.com/mxballin/recordkeeping-governance/blob/main/objects/AustraliaState.png" class="img-fluid" alt="Responsive image">
+<img src="https://raw.githubusercontent.com/mxballin/recordkeeping-governance/main/commissionsviz_files/figure-html/int-commissions-1.png" class="img-fluid" alt="Responsive image">
 
 ## Federal Australian Commissions
-<img src="https://github.com/mxballin/recordkeeping-governance/blob/main/objects/AustraliaFederal.png" class="img-fluid" alt="Responsive image">
+<img src="https://raw.githubusercontent.com/mxballin/recordkeeping-governance/main/commissionsviz_files/figure-html/federal-commissions-1.png" class="img-fluid" alt="Responsive image">
 
 ## State Australian Commissions
 <img src="https://raw.githubusercontent.com/mxballin/recordkeeping-governance/main/commissionsviz_files/figure-html/state-commissions-1.png" class="img-fluid" alt="Responsive image">
 
 
 # A Summary of Recordkeeping-Centric Recommendations from Commissions
+
+**Commonly Made Recommendations**
+> Establishing a commissione
+> A review of the information exchange system
+> Creation of improved information systems
+> The collection/identification of relevant records
+> Development of a core data set
+> Registration of individuals working with children
+> Mandatory reporting
+> Updating retention & disposition schedules
+> Creating/updating codes of practice for accessing records
 
 ## Australia - Federal
 <img src="https://raw.githubusercontent.com/mxballin/recordkeeping-governance/main/commissionsviz_files/figure-html/state-commissions-1.png" class="img-fluid" alt="Responsive image">

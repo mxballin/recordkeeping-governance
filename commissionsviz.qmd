@@ -26,8 +26,19 @@ suppressPackageStartupMessages(library(RColorBrewer))
 commissions <- read.csv("commissionsdatabaseggplot.csv", stringsAsFactors = F)
 commissions$start <- as.Date(commissions$start, format="%d/%m/%Y")
 commissions$end <- as.Date(commissions$end,format="%d/%m/%Y")
+comm_int <- commissions %>%
+  filter(country!="Australia")
+comm_ausfed <- commissions %>%
+  filter(country=="Australia",Notes=="Federal")
 
-p <- ggplot(commissions) +
+comm_ausst <- commissions %>%
+  filter(Notes!="Federal",country=="Australia")
+
+```
+
+```{r}
+
+p_int <- ggplot(comm_int) +
       geom_linerange(aes(y = reorder(title,desc(start)), 
                          xmin = start,
                          xmax = end,
@@ -43,5 +54,46 @@ p <- ggplot(commissions) +
       theme(
       axis.text = element_text(size = rel(0.5))
       )
-p
+p_int
+
+```
+
+```{r}
+
+p_ausfed <- ggplot(comm_ausfed) +
+      geom_linerange(aes(y = reorder(title,desc(start)), 
+                         xmin = start,
+                         xmax = end)
+                     )+
+      labs(y=NULL)+
+      scale_x_date(date_breaks="5 years",
+                   date_labels="%Y",
+                   limits=c(as.Date("1/1/1995",
+                                    format="%d/%m/%Y"),as.Date("01/01/2018",
+                                    format="%d/%m/%Y"))
+                   )+
+      theme(
+      axis.text = element_text(size = rel(0.5))
+      )
+p_ausfed
+```
+
+```{r}
+p_ausst <- ggplot(comm_ausst) +
+      geom_linerange(aes(y = reorder(title,desc(start)), 
+                         xmin = start,
+                         xmax = end,
+                         colour = Notes)
+                     )+
+      labs(y=NULL)+
+      scale_x_date(date_breaks="5 years",
+                   date_labels="%Y",
+                   limits=c(as.Date("1/1/1998",
+                                    format="%d/%m/%Y"),as.Date("14/4/2023",
+                                    format="%d/%m/%Y"))
+                   )+
+      theme(
+      axis.text = element_text(size = rel(0.5))
+      )
+p_ausst
 ```

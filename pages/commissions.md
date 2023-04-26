@@ -30,16 +30,17 @@ permalink: /blog/commissions.html
 # A Summary of Recordkeeping-Centric Recommendations from Commissions
 
 **Commonly Made Recommendations**
-> Establishing a commissione
-> A review of the information exchange system
-> Creation of improved information systems
-> The collection/identification of relevant records
-> Development of a core data set
-> Registration of individuals working with children
-> Mandatory reporting
-> Updating retention & disposition schedules
-> Creating/updating codes of practice for accessing records
-
+<ul>
+<li> Establishing a commission for children</li>
+<li> A review of the information exchange system </li>
+<li> Creation of improved information systems </li>
+<li> The collection/identification of relevant records </li>
+<li> Development of a core data set </li>
+<li> Registration of individuals working with children </li>
+<li> Mandatory reporting </li>
+<li> Updating retention & disposition schedules </li>
+<li> Creating/updating codes of practice for accessing records </li>
+</ul>
 ## Australia - Federal
 <img src="https://raw.githubusercontent.com/mxballin/recordkeeping-governance/main/objects/AustraliaFederal.png" class="img-fluid" alt="Responsive image">
 

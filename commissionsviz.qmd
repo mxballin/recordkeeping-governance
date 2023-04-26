@@ -23,6 +23,7 @@ suppressPackageStartupMessages(library(RColorBrewer))
 ```
 
 ```{r}
+#| echo: false
 commissions <- read.csv("commissionsdatabaseggplot.csv", stringsAsFactors = F)
 commissions$start <- as.Date(commissions$start, format="%d/%m/%Y")
 commissions$end <- as.Date(commissions$end,format="%d/%m/%Y")
@@ -36,8 +37,8 @@ comm_ausst <- commissions %>%
 
 ```
 
-```{r}
-
+```{r int-commissions}
+#| echo: false
 p_int <- ggplot(comm_int) +
       geom_linerange(aes(y = reorder(title,desc(start)), 
                          xmin = start,
@@ -58,8 +59,8 @@ p_int
 
 ```
 
-```{r}
-
+```{r federal-commissions}
+#| echo: false
 p_ausfed <- ggplot(comm_ausfed) +
       geom_linerange(aes(y = reorder(title,desc(start)), 
                          xmin = start,
@@ -78,7 +79,8 @@ p_ausfed <- ggplot(comm_ausfed) +
 p_ausfed
 ```
 
-```{r}
+```{r state-commissions}
+#| echo: false
 p_ausst <- ggplot(comm_ausst) +
       geom_linerange(aes(y = reorder(title,desc(start)), 
                          xmin = start,

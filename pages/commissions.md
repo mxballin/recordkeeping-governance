@@ -18,10 +18,10 @@ permalink: /blog/commissions.html
 
 ## Commissions Held Outside of Australia
 
-<img src="hhttps://raw.githubusercontent.com/mxballin/recordkeeping-governance/main/commissionsviz_files/figure-html/int-commissions-1.png" class="img-fluid" alt="Responsive image">
+<img src="https://github.com/mxballin/recordkeeping-governance/blob/main/objects/AustraliaState.png" class="img-fluid" alt="Responsive image">
 
 ## Federal Australian Commissions
-<img src="https://raw.githubusercontent.com/mxballin/recordkeeping-governance/main/commissionsviz_files/figure-html/federal-commissions-1.png" class="img-fluid" alt="Responsive image">
+<img src="https://github.com/mxballin/recordkeeping-governance/blob/main/objects/AustraliaFederal.png" class="img-fluid" alt="Responsive image">
 
 ## State Australian Commissions
 <img src="https://raw.githubusercontent.com/mxballin/recordkeeping-governance/main/commissionsviz_files/figure-html/state-commissions-1.png" class="img-fluid" alt="Responsive image">
@@ -29,3 +29,17 @@ permalink: /blog/commissions.html
 
 # A Summary of Recordkeeping-Centric Recommendations from Commissions
 
+## Australia - Federal
+<img src="https://raw.githubusercontent.com/mxballin/recordkeeping-governance/main/commissionsviz_files/figure-html/state-commissions-1.png" class="img-fluid" alt="Responsive image">
+
+## Australia - State
+<img src="https://raw.githubusercontent.com/mxballin/recordkeeping-governance/main/commissionsviz_files/figure-html/state-commissions-1.png" class="img-fluid" alt="Responsive image">
+
+## Canada
+<img src="https://github.com/mxballin/recordkeeping-governance/blob/main/objects/Canada.png" class="img-fluid" alt="Responsive image">
+
+## Aotearoa New Zealand
+<img src="https://github.com/mxballin/recordkeeping-governance/blob/main/objects/AotearoaNewZealand.png" class="img-fluid" alt="Responsive image">
+
+## UK & Ireland
+<img src="https://github.com/mxballin/recordkeeping-governance/blob/main/objects/UK.png" class="img-fluid" alt="Responsive image">

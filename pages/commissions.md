@@ -41,6 +41,7 @@ permalink: /blog/commissions.html
 <li> Updating retention & disposition schedules </li>
 <li> Creating/updating codes of practice for accessing records </li>
 </ul>
+
 ## Australia - Federal
 <img src="https://raw.githubusercontent.com/mxballin/recordkeeping-governance/main/objects/AustraliaFederal.png" class="img-fluid" alt="Responsive image">
 

@@ -1,0 +1,40 @@
+type,start,end,title,entity,notes
+commission,1/1/2014,1/1/2016,VAGO Residential Care Services for Children,VAGO
+commission,1/1/2019,1/1/2021,RC. into Victoria's Mental Health System,,
+commission,01/01/2011,01/12/2012,Protecting Victoria's Vulnerable Children Inq.,,
+commission,01/01/2014,01/01/2016,VAGO Residential Care Services for Children,VAGO
+commission,01/01/2022,31/12/2022,VAGO Quality of Child Protection Data,VAGO
+commission,01/01/2021,31/12/2021,Out of sight: Systemic inq. into [the absent or missing], CCYP
+commission,01/01/2019,31/12/2019,In our own words: Systemic inquiry into the lived experience of children and young people in the Victorian out-of-home care system, CCYP
+commission,01/01/2016,31/12/2016,"Always was, always will be Koori children",CCYP
+commission,01/01/2020,31/12/2020,‘Keep caring’: Systemic inquiry into services for young people transitioning from out-of-home care,CCYP
+strategy,01/01/2003,present,Looking After Children framework,DFFH
+legislation,2007,present,"Children, Youth and Families Act 2005",state
+legislation,2007,present,Charter for children in out-of-home care,state
+legislation,01/01/2007,present,Charter of Human Rights and Responsibilities 2006,state
+legislation,13/09/2005,01/02/2021,Working with Children Act,state
+legislation,01/02/2021,present,Worker Screening Act 2020,state
+strategy,01/04/2016,present,"Roadmap for Reform: Strong families, safe children",state
+strategy,01/01/2021,present,"Safe and Supported: the National Framework for Protecting Australia’s Children 2021–2031",commonwealth
+legislation,01/03/2013,present,Commission for Children and Young People Act 2012,state
+legislation,05/01/1976,present,Family Law Act 1975,commonwealth
+technology,1992,2007,Client And Service Information System (CASIS),
+legislation,1991,2007,Children and Young Person’s Act 1989
+legislation,,,Adoptions Act 1984
+legislation,,,Freedom of Information Act 1983
+legislation,,,Public Records Act 1973
+legislation,,,Information Privacy Act 2000
+legislation,,,Health Records Act 2001
+technology,01/01/1988,1992, Children at Risk Register (CARR)
+technology,01/01/1986,2008,Statutory Client Information System (SCIS)
+legislation,11/05/1993,,Children and Young Persons (Further Amendment) Act 1993,state,mandatory reporting
+technology,01/01/1994,31/12/2001,RecFind
+technology,01/01/1994,2007,Juvenile Justice Client and Case Management System (JJCIS)
+technology,01/01/2001,present,TRIM,,replaces RecFind
+strategy,01/09/2002,,Client Service Model Strategic Project
+technology,2007,present,Client Relationship Information System (CRIS),,replaces CASIS
+technology,2007,present,Client Relationship Information System for Service Providers (CRISSP)
+technology,2007,present,Juvenile Justice Client Relationship Information System (JJCRIS)
+
+https://www.findingrecords.dhhs.vic.gov.au/faqs/timeline-government-records
+https://www.findingrecords.dhhs.vic.gov.au/faqs/child-protection-and-youth-justice-client-records

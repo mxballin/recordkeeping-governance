@@ -28,6 +28,13 @@ comm_ausfed <- commissions %>%
 comm_ausst <- commissions %>%
   filter(Notes!="Federal",country=="Australia")
 cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
+vic <- read.csv("victoria.csv")
+vic$start <- as.Date(vic$start, format="%d/%m/%Y")
+vic$end <- as.Date(vic$end,format="%d/%m/%Y")
+comm_vic <- vic %>%
+  filter(type=="commission")
+other_vic <- vic %>%
+  filter(type != "commission")
 ```
 
 ```{r int-commissions}
@@ -54,7 +61,7 @@ p_int <- ggplot(comm_int) +
                     arrow = arrow(
                              ends="last",
                              type ="closed",
-                             length = unit(0.25, "cm")),
+                             length = unit(0.15, "cm")),
                    show.legend = FALSE
                   )+
       geom_segment(aes(y=4,
@@ -67,7 +74,7 @@ p_int <- ggplot(comm_int) +
                     arrow = arrow(
                              ends="last",
                              type ="closed",
-                             length = unit(0.25, "cm")
+                             length = unit(0.15, "cm")
                              ),
                    show.legend = FALSE
                   )+
@@ -139,4 +146,281 @@ p_ausst <- ggplot(comm_ausst) +
       )+
   scale_colour_manual(values=c("#999999", "#0072B2", "#D55E00", "#CC79A7"))
 p_ausst
+```
+
+```{r victoria}
+#| echo: false
+p_vic <- ggplot(vic) +
+      geom_linerange(aes(y = reorder(title,desc(start)), 
+                         xmin = start,
+                         xmax = end,
+                         colour = type)
+                     )+
+      geom_vline(xintercept = as.Date("01/01/2023",format="%d/%m/%Y"),
+                 linetype = 2,
+                 alpha=.2)+
+      geom_point(aes(y=title,x=start,colour=type),show.legend = FALSE, size=.5)+
+      geom_point(aes(y=title,x=end,colour=type),show.legend = FALSE, size=.5)+
+      labs(y=NULL,x=NULL)+
+      scale_x_date(breaks=seq(as.Date("1/1/1970",format="%d/%m/%Y"),as.Date("1/1/2025",format="%d/%m/%Y"), by="10 years"),
+                   date_labels="%Y",
+                   minor_breaks = "5 years"
+                   )+
+  geom_segment(aes(y=2,
+                       yend=2,
+                       x=as.Date("01/01/2024",
+                                    format="%d/%m/%Y"),
+                       xend=as.Date("1/06/2024",
+                                    format="%d/%m/%Y"),
+                       colour="legislation"
+                       ),
+                    arrow = arrow(
+                             ends="last",
+                             type ="closed",
+                             length = unit(0.1, "cm")),
+                   show.legend = FALSE
+                  )+
+  geom_segment(aes(y=4,
+                       yend=4,
+                       x=as.Date("01/01/2024",
+                                    format="%d/%m/%Y"),
+                       xend=as.Date("1/06/2024",
+                                    format="%d/%m/%Y"),
+                       colour="strategy"
+                       ),
+                    arrow = arrow(
+                             ends="last",
+                             type ="closed",
+                             length = unit(0.1, "cm")),
+                   show.legend = FALSE
+                  )+
+geom_segment(aes(y=8,
+                       yend=8,
+                       x=as.Date("01/01/2024",
+                                    format="%d/%m/%Y"),
+                       xend=as.Date("1/06/2024",
+                                    format="%d/%m/%Y"),
+                       colour="strategy"
+                       ),
+                    arrow = arrow(
+                             ends="last",
+                             type ="closed",
+                             length = unit(0.1, "cm")),
+                   show.legend = FALSE
+                  )+
+  geom_segment(aes(y=10,
+                       yend=10,
+                       x=as.Date("01/01/2024",
+                                    format="%d/%m/%Y"),
+                       xend=as.Date("1/06/2024",
+                                    format="%d/%m/%Y"),
+                       colour="legislation"
+                       ),
+                    arrow = arrow(
+                             ends="last",
+                             type ="closed",
+                             length = unit(0.1, "cm")),
+                   show.legend = FALSE
+                  )+
+  geom_segment(aes(y=12,
+                       yend=12,
+                       x=as.Date("01/01/2024",
+                                    format="%d/%m/%Y"),
+                       xend=as.Date("1/06/2024",
+                                    format="%d/%m/%Y"),
+                       colour="legislation"
+                       ),
+                    arrow = arrow(
+                             ends="last",
+                             type ="closed",
+                             length = unit(0.1, "cm")),
+                   show.legend = FALSE
+                  )+
+  geom_segment(aes(y=15,
+                       yend=15,
+                       x=as.Date("01/01/2024",
+                                    format="%d/%m/%Y"),
+                       xend=as.Date("1/06/2024",
+                                    format="%d/%m/%Y"),
+                       colour="legislation"
+                       ),
+                    arrow = arrow(
+                             ends="last",
+                             type ="closed",
+                             length = unit(0.1, "cm")),
+                   show.legend = FALSE
+                  )+
+  geom_segment(aes(y=16,
+                       yend=16,
+                       x=as.Date("01/01/2024",
+                                    format="%d/%m/%Y"),
+                       xend=as.Date("1/06/2024",
+                                    format="%d/%m/%Y"),
+                       colour="legislation"
+                       ),
+                    arrow = arrow(
+                             ends="last",
+                             type ="closed",
+                             length = unit(0.1, "cm")),
+                   show.legend = FALSE
+                  )+
+  geom_segment(aes(y=17,
+                       yend=17,
+                       x=as.Date("01/01/2024",
+                                    format="%d/%m/%Y"),
+                       xend=as.Date("1/06/2024",
+                                    format="%d/%m/%Y"),
+                       colour="legislation"
+                       ),
+                    arrow = arrow(
+                             ends="last",
+                             type ="closed",
+                             length = unit(0.1, "cm")),
+                   show.legend = FALSE
+                  )+
+  geom_segment(aes(y=18,
+                       yend=18,
+                       x=as.Date("01/01/2024",
+                                    format="%d/%m/%Y"),
+                       xend=as.Date("1/06/2024",
+                                    format="%d/%m/%Y"),
+                       colour="technology"
+                       ),
+                    arrow = arrow(
+                             ends="last",
+                             type ="closed",
+                             length = unit(0.1, "cm")),
+                   show.legend = FALSE
+                  )+
+  geom_segment(aes(y=19,
+                       yend=19,
+                       x=as.Date("01/01/2024",
+                                    format="%d/%m/%Y"),
+                       xend=as.Date("1/06/2024",
+                                    format="%d/%m/%Y"),
+                       colour="technology"
+                       ),
+                    arrow = arrow(
+                             ends="last",
+                             type ="closed",
+                             length = unit(0.1, "cm")),
+                   show.legend = FALSE
+                  )+
+  geom_segment(aes(y=20,
+                       yend=20,
+                       x=as.Date("01/01/2024",
+                                    format="%d/%m/%Y"),
+                       xend=as.Date("1/06/2024",
+                                    format="%d/%m/%Y"),
+                       colour="technology"
+                       ),
+                    arrow = arrow(
+                             ends="last",
+                             type ="closed",
+                             length = unit(0.1, "cm")),
+                   show.legend = FALSE
+                  )+
+  geom_segment(aes(y=22,
+                       yend=22,
+                       x=as.Date("01/01/2024",
+                                    format="%d/%m/%Y"),
+                       xend=as.Date("1/06/2024",
+                                    format="%d/%m/%Y"),
+                       colour="strategy"
+                       ),
+                    arrow = arrow(
+                             ends="last",
+                             type ="closed",
+                             length = unit(0.1, "cm")),
+                   show.legend = FALSE
+                  )+
+  geom_segment(aes(y=24,
+                       yend=24,
+                       x=as.Date("01/01/2024",
+                                    format="%d/%m/%Y"),
+                       xend=as.Date("1/06/2024",
+                                    format="%d/%m/%Y"),
+                       colour="legislation"
+                       ),
+                    arrow = arrow(
+                             ends="last",
+                             type ="closed",
+                             length = unit(0.1, "cm")),
+                   show.legend = FALSE
+                  )+
+  geom_segment(aes(y=26,
+                       yend=26,
+                       x=as.Date("01/01/2024",
+                                    format="%d/%m/%Y"),
+                       xend=as.Date("1/06/2024",
+                                    format="%d/%m/%Y"),
+                       colour="technology"
+                       ),
+                    arrow = arrow(
+                             ends="last",
+                             type ="closed",
+                             length = unit(0.1, "cm")),
+                   show.legend = FALSE
+                  )+
+  geom_segment(aes(y=36,
+                       yend=36,
+                       x=as.Date("01/01/2024",
+                                    format="%d/%m/%Y"),
+                       xend=as.Date("1/06/2024",
+                                    format="%d/%m/%Y"),
+                       colour="legislation"
+                       ),
+                    arrow = arrow(
+                             ends="last",
+                             type ="closed",
+                             length = unit(0.1, "cm")),
+                   show.legend = FALSE
+                  )+
+  geom_segment(aes(y=37,
+                       yend=37,
+                       x=as.Date("01/01/2024",
+                                    format="%d/%m/%Y"),
+                       xend=as.Date("1/06/2024",
+                                    format="%d/%m/%Y"),
+                       colour="legislation"
+                       ),
+                    arrow = arrow(
+                             ends="last",
+                             type ="closed",
+                             length = unit(0.1, "cm")),
+                   show.legend = FALSE
+                  )+
+  geom_segment(aes(y=38,
+                       yend=38,
+                       x=as.Date("01/01/2024",
+                                    format="%d/%m/%Y"),
+                       xend=as.Date("1/06/2024",
+                                    format="%d/%m/%Y"),
+                       colour="legislation"
+                       ),
+                    arrow = arrow(
+                             ends="last",
+                             type ="closed",
+                             length = unit(0.1, "cm")),
+                   show.legend = FALSE
+                  )+
+  geom_segment(aes(y=39,
+                       yend=39,
+                       x=as.Date("01/01/2024",
+                                    format="%d/%m/%Y"),
+                       xend=as.Date("1/06/2024",
+                                    format="%d/%m/%Y"),
+                       colour="legislation"
+                       ),
+                    arrow = arrow(
+                             ends="last",
+                             type ="closed",
+                             length = unit(0.1, "cm")),
+                   show.legend = FALSE
+                  )+
+        theme(
+      axis.text = element_text(size = rel(0.5)
+                               )
+      )
+p_vic
 ```

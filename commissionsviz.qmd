@@ -54,27 +54,27 @@ p_int <- ggplot(comm_int) +
                        yend=7,
                        x=as.Date("1/1/2015",
                                     format="%d/%m/%Y"),
-                       xend=as.Date("1/01/2024",
+                       xend=as.Date("01/10/2023",
                                     format="%d/%m/%Y"),
                        colour="UK & Ireland"
                        ),
                     arrow = arrow(
                              ends="last",
                              type ="closed",
-                             length = unit(0.15, "cm")),
+                             length = unit(0.2, "cm")),
                    show.legend = FALSE
                   )+
       geom_segment(aes(y=4,
                        yend=4,
                        x=as.Date("1/1/2018",
                                     format="%d/%m/%Y"),
-                       xend=as.Date("1/01/2024",
+                       xend=as.Date("01/10/2023",
                                     format="%d/%m/%Y"),
                        colour="New Zealand"),
                     arrow = arrow(
                              ends="last",
                              type ="closed",
-                             length = unit(0.15, "cm")
+                             length = unit(0.2, "cm")
                              ),
                    show.legend = FALSE
                   )+
@@ -109,8 +109,7 @@ p_ausfed <- ggplot(comm_ausfed) +
                    limits=c(as.Date("1/1/1995",
                                     format="%d/%m/%Y"),as.Date("01/01/2019",
                                     format="%d/%m/%Y")
-                            ),
-                   date_minor_breaks="1 year"
+                            )
                    )+
       theme(
       axis.text = element_text(size = rel(0.5))

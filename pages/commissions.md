@@ -56,3 +56,20 @@ permalink: /blog/commissions.html
 
 ## UK & Ireland
 <img src="https://raw.githubusercontent.com/mxballin/recordkeeping-governance/main/objects/UK.png" class="img-fluid" alt="Responsive image">
+
+# Considering the Value of Commissions to Recordkeeping Governance and Practice
+
+# Assessing the Realities of Commission Recommendations and their Outcomes
+
+## Case Study: VIC, Australia
+
+<img src="https://raw.githubusercontent.com/mxballin/recordkeeping-governance/main/commissionsviz_files/figure-html/victoria-1.png" class="img-fluid" alt="Responsive image">
+
+References:
+https://www.findingrecords.dhhs.vic.gov.au/faqs/timeline-government-records
+https://www.findingrecords.dhhs.vic.gov.au/faqs/child-protection-and-youth-justice-client-records
+https://www.findandconnect.gov.au/ref/vic/browse.html
+
+## Case Study: NSW, Australia
+
+https://www.findandconnect.gov.au/ref/nsw/browse.html

@@ -5,6 +5,8 @@ permalink: /blog.html
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+
+## Analysing the Past
 <div class="row">
 <div class="card" style="width: 18rem;">
   <div class="card-header" style="font-size: 12px; color: #e5e9ec; background-color: #B8B42D;">
@@ -16,7 +18,10 @@ permalink: /blog.html
     <a href="/blog/commissions.html" class="btn btn-success">Read on</a>
   </div>
 </div>
+</div>
 
+## Building a Bibliography
+<div class="row">
 <div class="card" style="width: 18rem;">
   <div class="card-header" style="font-size: 12px; color: #e5e9ec; background-color: #B8B42D;">
     December 26, 2021

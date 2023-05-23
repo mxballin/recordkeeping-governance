@@ -39,8 +39,6 @@ permalink: /blog.html
   </div>
 </div>
 
-</div>
-
 <div class="card" style="width: 18rem;">
   <div class="card-header" style="font-size: 12px; color: #e5e9ec; background-color: #B8B42D;">
     December 26, 2021
@@ -50,4 +48,5 @@ permalink: /blog.html
     <p class="card-text">.</p>
     <a href="/blog/abolition.html" class="btn btn-success">Read on</a>
   </div>
+</div>
 </div>

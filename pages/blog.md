@@ -39,3 +39,13 @@ permalink: /blog.html
   </div>
 </div>
 
+<div class="card" style="width: 18rem;">
+  <div class="card-header" style="font-size: 12px; color: #e5e9ec; background-color: #B8B42D;">
+    December 26, 2021
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Building a Bibliography: Child Liberation, Abolition, and the Welfare-Industrial Complex</h5>
+    <p class="card-text">.</p>
+    <a href="/blog/abolition.html" class="btn btn-success">Read on</a>
+  </div>
+</div>

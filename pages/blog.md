@@ -20,6 +20,8 @@ permalink: /blog.html
 </div>
 </div>
 
+<br>
+
 ## Building a Bibliography
 <div class="row">
 <div class="card" style="width: 18rem;">

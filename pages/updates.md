@@ -50,7 +50,7 @@ __Events and Workshops I've Attended:__
         </button>
       </h5>
     </div>
-    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
       <div class="card-body">
             <b>Things I've Been Working On:</b>
             <ul>

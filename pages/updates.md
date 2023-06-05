@@ -54,16 +54,16 @@ __Events and Workshops I've Attended:__
       <div class="card-body">
             <b>Things I've Been Working On:</b>
             <ul>
-                <li> Epistemic Network Analysis mini-project [Proposal](https://docs.google.com/document/d/1zhdwhAJ0nOPwBpWtf9XiII3TyIQaXo6EiT_xwwA0250/edit?usp=sharing)
+                <li> Epistemic Network Analysis mini-project <a href="https://docs.google.com/document/d/1zhdwhAJ0nOPwBpWtf9XiII3TyIQaXo6EiT_xwwA0250/edit?usp=sharing">Proposal</a>
                         <ul>
                             <li>Upcoming: Conversation with DFFS - building an ethical dataset</li>
                         </ul>
                     </li>
                     <li>Assessing Responses to Review Commissions in Recordkeeping Contexts
                         <ul>
-                            <li>[Mapping Commission Recommendations](/blog/commissions.html)</li>
-                            <li>Conversations with Decisionmakers and Designers [Proposal](https://docs.google.com/document/d/10p5r_p8eAZ8mpvYM4pmiLVeaI6vmEDDYzblCkzr3iYY/edit?usp=sharing)</li>
-                            <li>Currently working on: [Explanatory Statement](https://docs.google.com/document/d/1Im3KftI3HSg0Fe4-FFToftiQrNp7waau/edit?usp=sharing&ouid=106698260065842284739&rtpof=true&sd=true)</li>
+                            <li><a href="/blog/commissions.html">Mapping Commission Recommendations</a></li>
+                            <li><a href="https://docs.google.com/document/d/10p5r_p8eAZ8mpvYM4pmiLVeaI6vmEDDYzblCkzr3iYY/edit?usp=sharing"> Conversations with Decisionmakers and Designers [Proposal]</a></li>
+                            <li>Currently working on: <a href="https://docs.google.com/document/d/1Im3KftI3HSg0Fe4-FFToftiQrNp7waau/edit?usp=sharing&ouid=106698260065842284739&rtpof=true&sd=true">Explanatory Statement</a></li>
                         </ul>
                     </li>
                     <li> Machine and Deep Learning Training</li>
@@ -78,7 +78,7 @@ __Events and Workshops I've Attended:__
             </ul>
                     <i>Total hours completed to date: 38</i>
             <b> Events and Workshops I've Attended:</b>
-                    <li> Participated in the [2023 QE Data Challenge](https://www.qesoc.org/qe-data-challenge/), 15 May - 19 May</li>
+                    <li> Participated in the <a href="https://www.qesoc.org/qe-data-challenge/">2023 QE Data Challenge</a>, 15 May - 19 May</li>
                     <li> Castan Centre for Human Rights Law Annual Lecture, 9 May</li>
             </ul>
         </div>

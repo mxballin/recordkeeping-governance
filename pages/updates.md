@@ -62,8 +62,8 @@ __Events and Workshops I've Attended:__
                     <li>Assessing Responses to Review Commissions in Recordkeeping Contexts
                         <ul>
                             <li><a href="/blog/commissions.html">Mapping Commission Recommendations</a></li>
-                            <li><a href="https://docs.google.com/document/d/10p5r_p8eAZ8mpvYM4pmiLVeaI6vmEDDYzblCkzr3iYY/edit?usp=sharing"> Conversations with Decisionmakers and Designers [Proposal]</a></li>
-                            <li>Currently working on: <a href="https://docs.google.com/document/d/1Im3KftI3HSg0Fe4-FFToftiQrNp7waau/edit?usp=sharing&ouid=106698260065842284739&rtpof=true&sd=true">Explanatory Statement</a></li>
+                            <li><a href="https://docs.google.com/document/d/10p5r_p8eAZ8mpvYM4pmiLVeaI6vmEDDYzblCkzr3iYY/edit?usp=sharing"> Conversations with Decisionmakers and Designers Proposal</a></li>
+                            <li>Currently working on: <a href="https://docs.google.com/document/d/1Im3KftI3HSg0Fe4-FFToftiQrNp7waau/edit?usp=sharing&ouid=106698260065842284739&rtpof=true&sd=true">Conversations with Decisionmakers and Designers Explanatory Statement</a></li>
                         </ul>
                     </li>
                     <li> Machine and Deep Learning Training</li>

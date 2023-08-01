@@ -20,7 +20,7 @@ __Things I've Been Working On:__
     * Conversations with Decisionmakers and Designers [Proposal](https://docs.google.com/document/d/10p5r_p8eAZ8mpvYM4pmiLVeaI6vmEDDYzblCkzr3iYY/edit?usp=sharing)
     * [Explanatory Statement](https://docs.google.com/document/d/1Im3KftI3HSg0Fe4-FFToftiQrNp7waau/edit?usp=sharing&ouid=106698260065842284739&rtpof=true&sd=true)
     * Next steps:
-        * Revise ethics application following Joanne's review
+        * Revise [ethics application](https://docs.google.com/document/d/1pN_cWehzD5Km2r61Dyba0TY_yt2S8bvVsSwd2UbKlaU/edit?usp=sharing) following Joanne's review
 * Machine and Deep Learning Training
 
 __Professional Development Modules:__

@@ -42,7 +42,6 @@ _Total hours completed to date: 48_
     </div>
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
       <div class="card-body">
-## Since We Last Met
 
 <p><strong>Things I&#39;ve Been Working On:</strong></p>
 <ul>

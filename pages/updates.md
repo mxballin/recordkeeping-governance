@@ -16,7 +16,7 @@ __Things I've Been Working On:__
       * Themes/topics such as:
         * The history/development of the concept of a "corporate parent"
         * Child liberation and abolition studies and the landscape of the welfare-industrial complex
-        *Personhood of children, both in records and in research
+        * Personhood of children, both in records and in research
 
 * Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)
     * Revising [Ethics Application](https://docs.google.com/document/d/1tlpJCSd5iN0XOJaPCiGQ6wHCR5XFQZ5EMgOk8tkS2fI/edit?usp=sharing)

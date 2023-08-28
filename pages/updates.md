@@ -21,7 +21,7 @@ __Things I've Been Working On:__
 * Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)
     * Revising [Ethics Application](https://docs.google.com/document/d/1tlpJCSd5iN0XOJaPCiGQ6wHCR5XFQZ5EMgOk8tkS2fI/edit?usp=sharing)
 * Information Architecture Design and Reform - IADR
-    * [Ethics application](https://docs.google.com/document/d/1pN_cWehzD5Km2r61Dyba0TY_yt2S8bvVsSwd2UbKlaU/edit?usp=sharing) ready for submission following any information Melissa has regarding law ethics counsel.
+    * [Ethics application](https://docs.google.com/document/d/1pN_cWehzD5Km2r61Dyba0TY_yt2S8bvVsSwd2UbKlaU/edit?usp=sharing) ready for submission following any information Melissa has regarding law ethics review.
 * Machine and Deep Learning Training
 
 

@@ -11,17 +11,19 @@ permalink: /updates.html
 ## Since We Last Met
 
 __Things I've Been Working On:__
+* Provenance Paper - [Abstract] (https://docs.google.com/document/d/1kq83mrJp6Vw1y7P2TyYxNxDo45bm6Tpc0xzc3pTjsQc/edit?usp=sharing) submitted for consideration to the [Archival Science CFP] (https://archivespublishing.com/2023/07/13/cfp-archival-science-special-issue-on-provenance/) for a special issue on provenance
+  * This also sparked some ideas for the content/structure of my overall literature review
+      * Themes/topics such as:
+        * The history/development of the concept of a "corporate parent"
+        * Child liberation and abolition studies and the landscape of the welfare-industrial complex
+        *Personhood of children, both in records and in research
+
 * Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)
-    * 1 August - Ethics consultation with Henry Linger 
-    * Next steps:
-        * Revising [Ethics Application](https://docs.google.com/document/d/1tlpJCSd5iN0XOJaPCiGQ6wHCR5XFQZ5EMgOk8tkS2fI/edit?usp=sharing)
+    * Revising [Ethics Application](https://docs.google.com/document/d/1tlpJCSd5iN0XOJaPCiGQ6wHCR5XFQZ5EMgOk8tkS2fI/edit?usp=sharing)
 * Information Architecture Design and Reform - IADR
-    * [Mapping Commission Recommendations](/blog/commissions.html)
-    * Conversations with Decisionmakers and Designers [Proposal](https://docs.google.com/document/d/10p5r_p8eAZ8mpvYM4pmiLVeaI6vmEDDYzblCkzr3iYY/edit?usp=sharing)
-    * [Explanatory Statement](https://docs.google.com/document/d/1Im3KftI3HSg0Fe4-FFToftiQrNp7waau/edit?usp=sharing&ouid=106698260065842284739&rtpof=true&sd=true)
-    * Next steps:
-        * Revise [ethics application](https://docs.google.com/document/d/1pN_cWehzD5Km2r61Dyba0TY_yt2S8bvVsSwd2UbKlaU/edit?usp=sharing) following Joanne's review
+    * [Ethics application](https://docs.google.com/document/d/1pN_cWehzD5Km2r61Dyba0TY_yt2S8bvVsSwd2UbKlaU/edit?usp=sharing) ready for submission following any information Melissa has regarding law ethics counsel.
 * Machine and Deep Learning Training
+
 
 __Professional Development Modules:__
 * Thesis Writing 2: Grammar for Editing Research Writing
@@ -32,6 +34,46 @@ _Total hours completed to date: 48_
 # Past Updates
 
 <div id="accordion">
+     <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          June 9th, 2023
+        </button>
+      </h5>
+    </div>
+    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+      <div class="card-body">
+<p><strong>Things I&#39;ve Been Working On:</strong></p>
+<ul>
+<li>Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)<ul>
+<li>1 August - Ethics consultation with Henry Linger </li>
+<li>Next steps:<ul>
+<li>Revising <a href="https://docs.google.com/document/d/1tlpJCSd5iN0XOJaPCiGQ6wHCR5XFQZ5EMgOk8tkS2fI/edit?usp=sharing">Ethics Application</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Information Architecture Design and Reform - IADR<ul>
+<li><a href="/blog/commissions.html">Mapping Commission Recommendations</a></li>
+<li>Conversations with Decisionmakers and Designers <a href="https://docs.google.com/document/d/10p5r_p8eAZ8mpvYM4pmiLVeaI6vmEDDYzblCkzr3iYY/edit?usp=sharing">Proposal</a></li>
+<li><a href="https://docs.google.com/document/d/1Im3KftI3HSg0Fe4-FFToftiQrNp7waau/edit?usp=sharing&amp;ouid=106698260065842284739&amp;rtpof=true&amp;sd=true">Explanatory Statement</a></li>
+<li>Next steps:<ul>
+<li>Revise <a href="https://docs.google.com/document/d/1pN_cWehzD5Km2r61Dyba0TY_yt2S8bvVsSwd2UbKlaU/edit?usp=sharing">ethics application</a> following Joanne&#39;s review</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Machine and Deep Learning Training</li>
+</ul>
+<p><strong>Professional Development Modules:</strong></p>
+<ul>
+<li>Thesis Writing 2: Grammar for Editing Research Writing</li>
+</ul>
+<p><em>Total hours completed to date: 48</em></p>
+
+</div>
+    </div>
      <div class="card">
     <div class="card-header" id="headingOne">
       <h5 class="mb-0">

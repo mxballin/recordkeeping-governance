@@ -41,7 +41,7 @@ __Upcoming Events, Workshops, and Professional Development Modules:__
     <div class="card-header" id="headingOne">
       <h5 class="mb-0">
         <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-          June 9th, 2023
+          August 4th, 2023
         </button>
       </h5>
     </div>

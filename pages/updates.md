@@ -11,7 +11,7 @@ permalink: /updates.html
 ## Since We Last Met
 
 __Things I've Been Working On:__
-* Provenance Paper - [Abstract] (https://docs.google.com/document/d/1kq83mrJp6Vw1y7P2TyYxNxDo45bm6Tpc0xzc3pTjsQc/edit?usp=sharing) submitted for consideration to the [Archival Science CFP] (https://archivespublishing.com/2023/07/13/cfp-archival-science-special-issue-on-provenance/) for a special issue on provenance
+* Provenance Paper - [Abstract](https://docs.google.com/document/d/1kq83mrJp6Vw1y7P2TyYxNxDo45bm6Tpc0xzc3pTjsQc/edit?usp=sharing) submitted for consideration to the [Archival Science CFP](https://archivespublishing.com/2023/07/13/cfp-archival-science-special-issue-on-provenance/) for a special issue on provenance
   * This also sparked some ideas for the content/structure of my overall literature review
       * Themes/topics such as:
         * The history/development of the concept of a "corporate parent"

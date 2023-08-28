@@ -25,10 +25,13 @@ __Things I've Been Working On:__
 * Machine and Deep Learning Training
 
 
-__Professional Development Modules:__
-* Thesis Writing 2: Grammar for Editing Research Writing
-
-_Total hours completed to date: 48_
+__Upcoming Events, Workshops, and Professional Development Modules:__
+* 4-6 September - Australian Society of Archivists Annual Conference
+  * Presenting: Ballin, Mya. (2023, September 4-7). <i>'Never for the adoptee's benefit': Exploring adoptee perspectives on access, preservation, and ownership in the recordkeeping culture of transracial, transnational adoptions</i> [Conference presentation]. Australian Society of Archivists National Conference, Melbourne, Australia.
+* Professional Development:
+  * 13 September (3 hours) - Academic Posters: preparing and presenting
+  * 14 September to 12 October (9 hours) - Ethical Research in IT
+  * 24 October to 9 November (10 hours)- Qualitative Research Methods
 
 
 # Past Updates

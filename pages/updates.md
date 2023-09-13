@@ -18,6 +18,7 @@ __Things I've Been Working On:__
     * Submitted September 8
     * Setting up a meeting with Barbara Reed
 * Machine and Deep Learning Training
+* 8 September - 6 month review
 
 
 __Upcoming Events, Workshops, and Professional Development Modules:__

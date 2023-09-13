@@ -5,7 +5,7 @@ permalink: /updates.html
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-# August 4th, 2023
+# September 14th, 2023
 <hr/>
 
 ## Since We Last Met
@@ -13,6 +13,7 @@ permalink: /updates.html
 __Things I've Been Working On:__
 * Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)
     * Revising [Ethics Application](https://docs.google.com/document/d/1tlpJCSd5iN0XOJaPCiGQ6wHCR5XFQZ5EMgOk8tkS2fI/edit?usp=sharing)
+    * Setting up a meeting with Nina Lewis
 * Information Architecture Design and Reform - IADR
     * Submitted September 8
 * Machine and Deep Learning Training

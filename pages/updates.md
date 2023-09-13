@@ -16,6 +16,7 @@ __Things I've Been Working On:__
     * Setting up a meeting with Nina Lewis
 * Information Architecture Design and Reform - IADR
     * Submitted September 8
+    * Setting up a meeting with Barbara Reed
 * Machine and Deep Learning Training
 
 

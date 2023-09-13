@@ -23,6 +23,7 @@ __Upcoming Events, Workshops, and Professional Development Modules:__
 * Professional Development:
   * 14 September to 12 October (9 hours) - Ethical Research in IT
   * 24 October to 9 November (10 hours)- Qualitative Research Methods
+  
   Total hours completed to date: 51
 
 

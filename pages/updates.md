@@ -31,7 +31,7 @@ __Events, Workshops, and Professional Development Modules:__
 
 # Past Updates
 <div id="accordion">
-     <div class="card">
+  <div class="card">
     <div class="card-header" id="headingOne">
       <h5 class="mb-0">
         <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -41,40 +41,39 @@ __Events, Workshops, and Professional Development Modules:__
     </div>
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
       <div class="card-body">
-      <h1 id="september-14th-2023">September 14th, 2023</h1>
-<hr/>
-
-<h2 id="since-we-last-met">Since We Last Met</h2>
-<p><strong>Things I&#39;ve Been Working On:</strong></p>
-<ul>
-<li>Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)<ul>
-<li>Revising <a href="https://docs.google.com/document/d/1tlpJCSd5iN0XOJaPCiGQ6wHCR5XFQZ5EMgOk8tkS2fI/edit?usp=sharing">Ethics Application</a></li>
-<li>Setting up a meeting with Nina Lewis</li>
-</ul>
-</li>
-<li>Information Architecture Design and Reform - IADR<ul>
-<li>Submitted September 8</li>
-<li>Setting up a meeting with Barbara Reed</li>
-</ul>
-</li>
-<li>Machine and Deep Learning Training</li>
-<li>8 September - 6 month review</li>
-</ul>
-<p><strong>Upcoming Events, Workshops, and Professional Development Modules:</strong></p>
-<ul>
-<li>14 September — Diana Marsh virtual visit with the Records Continuum Research Group</li>
-<li><p>Professional Development:</p>
-<ul>
-<li>14 September to 12 October (9 hours) - Ethical Research in IT</li>
-<li>24 October to 9 November (10 hours)- Qualitative Research Methods</li>
-</ul>
-<p>Total hours completed to date: 51</p>
-</li>
-</ul>
+        <h2 id="since-we-last-met">Since We Last Met</h2>
+        <p><strong>Things I&#39;ve Been Working On:</strong></p>
+        <ul>
+        <li>Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)<ul>
+        <li>Revising <a href="https://docs.google.com/document/d/1tlpJCSd5iN0XOJaPCiGQ6wHCR5XFQZ5EMgOk8tkS2fI/edit?usp=sharing">Ethics Application</a></li>
+        <li>Setting up a meeting with Nina Lewis</li>
+        </ul>
+        </li>
+        <li>Information Architecture Design and Reform - IADR<ul>
+        <li>Submitted September 8</li>
+        <li>Setting up a meeting with Barbara Reed</li>
+        </ul>
+        </li>
+        <li>Machine and Deep Learning Training</li>
+        <li>8 September - 6 month review</li>
+        </ul>
+        <p><strong>Upcoming Events, Workshops, and Professional Development Modules:</strong></p>
+        <ul>
+        <li>14 September — Diana Marsh virtual visit with the Records Continuum Research Group</li>
+        <li><p>Professional Development:</p>
+        <ul>
+        <li>14 September to 12 October (9 hours) - Ethical Research in IT</li>
+        <li>24 October to 9 November (10 hours)- Qualitative Research Methods</li>
+        </ul>
+        <p>Total hours completed to date: 51</p>
+        </li>
+        </ul>
       </div>
+    </div>
   </div>
+
 <div id="accordion">
-     <div class="card">
+  <div class="card">
     <div class="card-header" id="headingOne">
       <h5 class="mb-0">
         <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -84,48 +83,48 @@ __Events, Workshops, and Professional Development Modules:__
     </div>
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
       <div class="card-body">
-<p><strong>Things I&#39;ve Been Working On:</strong></p>
-<ul>
-<li><p>Provenance Paper - <a href="https://docs.google.com/document/d/1kq83mrJp6Vw1y7P2TyYxNxDo45bm6Tpc0xzc3pTjsQc/edit?usp=sharing">Abstract</a> submitted for consideration to the <a href="https://archivespublishing.com/2023/07/13/cfp-archival-science-special-issue-on-provenance/">Archival Science CFP</a> for a special issue on provenance</p>
-<ul>
-<li>This also sparked some ideas for the content/structure of my overall literature review<ul>
-<li>Themes/topics such as:<ul>
-<li>The history/development of the concept of a &quot;corporate parent&quot;</li>
-<li>Child liberation and abolition studies and the landscape of the welfare-industrial complex</li>
-<li>Personhood of children, both in records and in research</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><p>Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)</p>
-<ul>
-<li>Revising <a href="https://docs.google.com/document/d/1tlpJCSd5iN0XOJaPCiGQ6wHCR5XFQZ5EMgOk8tkS2fI/edit?usp=sharing">Ethics Application</a></li>
-</ul>
-</li>
-<li>Information Architecture Design and Reform - IADR<ul>
-<li><a href="https://docs.google.com/document/d/1pN_cWehzD5Km2r61Dyba0TY_yt2S8bvVsSwd2UbKlaU/edit?usp=sharing">Ethics application</a> ready for submission following any information Melissa has regarding law ethics review.</li>
-</ul>
-</li>
-<li>Machine and Deep Learning Training</li>
-</ul>
-<p><strong>Upcoming Events, Workshops, and Professional Development Modules:</strong></p>
-<ul>
-<li>4-6 September - Australian Society of Archivists Annual Conference<ul>
-<li>Presenting: Ballin, Mya. (2023, September 4-7). <i>&#39;Never for the adoptee&#39;s benefit&#39;: Exploring adoptee perspectives on access, preservation, and ownership in the recordkeeping culture of transracial, transnational adoptions</i> [Conference presentation]. Australian Society of Archivists National Conference, Melbourne, Australia.</li>
-</ul>
-</li>
-<li>Professional Development:<ul>
-<li>13 September (3 hours) - Academic Posters: preparing and presenting</li>
-<li>14 September to 12 October (9 hours) - Ethical Research in IT</li>
-<li>24 October to 9 November (10 hours)- Qualitative Research Methods</li>
-</ul>
-</li>
-</ul>
-
-</div>
+        <p><strong>Things I&#39;ve Been Working On:</strong></p>
+        <ul>
+        <li><p>Provenance Paper - <a href="https://docs.google.com/document/d/1kq83mrJp6Vw1y7P2TyYxNxDo45bm6Tpc0xzc3pTjsQc/edit?usp=sharing">Abstract</a> submitted for consideration to the <a href="https://archivespublishing.com/2023/07/13/cfp-archival-science-special-issue-on-provenance/">Archival Science CFP</a> for a special issue on provenance</p>
+        <ul>
+        <li>This also sparked some ideas for the content/structure of my overall literature review<ul>
+        <li>Themes/topics such as:<ul>
+        <li>The history/development of the concept of a &quot;corporate parent&quot;</li>
+        <li>Child liberation and abolition studies and the landscape of the welfare-industrial complex</li>
+        <li>Personhood of children, both in records and in research</li>
+        </ul>
+        </li>
+        </ul>
+        </li>
+        </ul>
+        </li>
+        <li><p>Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)</p>
+        <ul>
+        <li>Revising <a href="https://docs.google.com/document/d/1tlpJCSd5iN0XOJaPCiGQ6wHCR5XFQZ5EMgOk8tkS2fI/edit?usp=sharing">Ethics Application</a></li>
+        </ul>
+        </li>
+        <li>Information Architecture Design and Reform - IADR<ul>
+        <li><a href="https://docs.google.com/document/d/1pN_cWehzD5Km2r61Dyba0TY_yt2S8bvVsSwd2UbKlaU/edit?usp=sharing">Ethics application</a> ready for submission following any information Melissa has regarding law ethics review.</li>
+        </ul>
+        </li>
+        <li>Machine and Deep Learning Training</li>
+        </ul>
+        <p><strong>Upcoming Events, Workshops, and Professional Development Modules:</strong></p>
+        <ul>
+        <li>4-6 September - Australian Society of Archivists Annual Conference<ul>
+        <li>Presenting: Ballin, Mya. (2023, September 4-7). <i>&#39;Never for the adoptee&#39;s benefit&#39;: Exploring adoptee perspectives on access, preservation, and ownership in the recordkeeping culture of transracial, transnational adoptions</i> [Conference presentation]. Australian Society of Archivists National Conference, Melbourne, Australia.</li>
+        </ul>
+        </li>
+        <li>Professional Development:<ul>
+        <li>13 September (3 hours) - Academic Posters: preparing and presenting</li>
+        <li>14 September to 12 October (9 hours) - Ethical Research in IT</li>
+        <li>24 October to 9 November (10 hours)- Qualitative Research Methods</li>
+        </ul>
+        </li>
+        </ul>
     </div>
+  </div>
+
 <div id="accordion">
      <div class="card">
     <div class="card-header" id="headingOne">
@@ -137,35 +136,34 @@ __Events, Workshops, and Professional Development Modules:__
     </div>
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
       <div class="card-body">
-<p><strong>Things I&#39;ve Been Working On:</strong></p>
-<ul>
-<li>Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)<ul>
-<li>1 August - Ethics consultation with Henry Linger </li>
-<li>Next steps:<ul>
-<li>Revising <a href="https://docs.google.com/document/d/1tlpJCSd5iN0XOJaPCiGQ6wHCR5XFQZ5EMgOk8tkS2fI/edit?usp=sharing">Ethics Application</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Information Architecture Design and Reform - IADR<ul>
-<li><a href="/blog/commissions.html">Mapping Commission Recommendations</a></li>
-<li>Conversations with Decisionmakers and Designers <a href="https://docs.google.com/document/d/10p5r_p8eAZ8mpvYM4pmiLVeaI6vmEDDYzblCkzr3iYY/edit?usp=sharing">Proposal</a></li>
-<li><a href="https://docs.google.com/document/d/1Im3KftI3HSg0Fe4-FFToftiQrNp7waau/edit?usp=sharing&amp;ouid=106698260065842284739&amp;rtpof=true&amp;sd=true">Explanatory Statement</a></li>
-<li>Next steps:<ul>
-<li>Revise <a href="https://docs.google.com/document/d/1pN_cWehzD5Km2r61Dyba0TY_yt2S8bvVsSwd2UbKlaU/edit?usp=sharing">ethics application</a> following Joanne&#39;s review</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Machine and Deep Learning Training</li>
-</ul>
-<p><strong>Professional Development Modules:</strong></p>
-<ul>
-<li>Thesis Writing 2: Grammar for Editing Research Writing</li>
-</ul>
-<p><em>Total hours completed to date: 48</em></p>
-
-</div>
+        <p><strong>Things I&#39;ve Been Working On:</strong></p>
+        <ul>
+        <li>Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)<ul>
+        <li>1 August - Ethics consultation with Henry Linger </li>
+        <li>Next steps:<ul>
+        <li>Revising <a href="https://docs.google.com/document/d/1tlpJCSd5iN0XOJaPCiGQ6wHCR5XFQZ5EMgOk8tkS2fI/edit?usp=sharing">Ethics Application</a></li>
+        </ul>
+        </li>
+        </ul>
+        </li>
+        <li>Information Architecture Design and Reform - IADR<ul>
+        <li><a href="/blog/commissions.html">Mapping Commission Recommendations</a></li>
+        <li>Conversations with Decisionmakers and Designers <a href="https://docs.google.com/document/d/10p5r_p8eAZ8mpvYM4pmiLVeaI6vmEDDYzblCkzr3iYY/edit?usp=sharing">Proposal</a></li>
+        <li><a href="https://docs.google.com/document/d/1Im3KftI3HSg0Fe4-FFToftiQrNp7waau/edit?usp=sharing&amp;ouid=106698260065842284739&amp;rtpof=true&amp;sd=true">Explanatory Statement</a></li>
+        <li>Next steps:<ul>
+        <li>Revise <a href="https://docs.google.com/document/d/1pN_cWehzD5Km2r61Dyba0TY_yt2S8bvVsSwd2UbKlaU/edit?usp=sharing">ethics application</a> following Joanne&#39;s review</li>
+        </ul>
+        </li>
+        </ul>
+        </li>
+        <li>Machine and Deep Learning Training</li>
+        </ul>
+        <p><strong>Professional Development Modules:</strong></p>
+        <ul>
+        <li>Thesis Writing 2: Grammar for Editing Research Writing</li>
+        </ul>
+        <p><em>Total hours completed to date: 48</em></p>
+      </div>
     </div>
      <div class="card">
     <div class="card-header" id="headingOne">

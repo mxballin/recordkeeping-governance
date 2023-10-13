@@ -15,10 +15,6 @@ Constantino, Christopher, Karen Randolph, Melissa Gross, Don Latham, Mollie Roon
 
 Walton, Matthew T., Kailyn L. Conner, and Jake A. Mackie. "The Future of Child Welfare Will Look Toward Children's Health: The Case of the Kentucky Health Information Data Sharing (KHIDS) Project." _Journal of Public Child Welfare_ 16, no. 4 (2022): 549-554.
 
-### Dexheimer et al
-
-https://www.youtube.com/watch?v=l8s1xhkhu2o&ab_channel=TheNationalLibraryofMedicine
-
 Greiner MV, Beal SJ, Dexheimer JW, et al. Improving Information Sharing for Youth in Foster Care. Pediatrics. 2019;144(2):e20190580
 
 Mary V. Greiner, Sarah J. Beal, Judith Dexheimer, Kelly Krummen; Evaluating IDENTITY, an Automated Data Sharing Platform to Improve Health Outcomes for Youth in Protective Custody. __Pediatrics__ July 2020; 146 (1_MeetingAbstract): 507–508. 10.1542/peds.146.1MA6.507

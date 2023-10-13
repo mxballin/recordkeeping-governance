@@ -1,9 +1,9 @@
 ---
-title: Building a Bibliography: Digital Ethics of Care
-layout: page
-permalink: /blog/digital-ethics.html
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
+title: Data
+layout: data
+permalink: /digitalethics.html
+# see _data/config-table.csv for table display options
+# a table visualization will be added below the content in this file
 ---
 
 P. M. Asaro. (2019). "AI Ethics in Predictive Policing: From Models of Threat to an Ethics of Care," in _IEEE Technology and Society Magazine 38_, no. 2, pp. 40-53. doi: 10.1109/MTS.2019.2915154.

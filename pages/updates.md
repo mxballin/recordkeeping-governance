@@ -31,8 +31,9 @@ __Events, Workshops, and Professional Development Modules:__
 
 # Past Updates
 <div id="accordion">
-  <div class="card">
-    <div class="card-header" id="headingOne">
+
+  <div class="accordion-item">
+    <div class="accordion-header" id="headingOne">
       <h5 class="mb-0">
         <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
           September 14th, 2023
@@ -40,7 +41,7 @@ __Events, Workshops, and Professional Development Modules:__
       </h5>
     </div>
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-      <div class="card-body">
+      <div class="accordion-body">
         <h2 id="since-we-last-met">Since We Last Met</h2>
         <p><strong>Things I&#39;ve Been Working On:</strong></p>
         <ul>
@@ -70,18 +71,17 @@ __Events, Workshops, and Professional Development Modules:__
         </ul>
       </div>
     </div>
-
-<div id="accordion">
-  <div class="card">
-    <div class="card-header" id="headingOne">
+  </div>
+  <div class="accordion-item">
+    <div class="accordion-header" id="headingTwo">
       <h5 class="mb-0">
-        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
           September 1st, 2023
         </button>
       </h5>
     </div>
-    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-      <div class="card-body">
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+      <div class="accordion-body">
         <p><strong>Things I&#39;ve Been Working On:</strong></p>
         <ul>
         <li><p>Provenance Paper - <a href="https://docs.google.com/document/d/1kq83mrJp6Vw1y7P2TyYxNxDo45bm6Tpc0xzc3pTjsQc/edit?usp=sharing">Abstract</a> submitted for consideration to the <a href="https://archivespublishing.com/2023/07/13/cfp-archival-science-special-issue-on-provenance/">Archival Science CFP</a> for a special issue on provenance</p>
@@ -125,16 +125,16 @@ __Events, Workshops, and Professional Development Modules:__
   </div>
 
 <div id="accordion">
-     <div class="card">
-    <div class="card-header" id="headingOne">
+     <div class="accordion">
+    <div class="accordion-header" id="headingThree">
       <h5 class="mb-0">
-        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
           August 4th, 2023
         </button>
       </h5>
     </div>
-    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-      <div class="card-body">
+    <div id="collapseOne" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+      <div class="accordion-body">
         <p><strong>Things I&#39;ve Been Working On:</strong></p>
         <ul>
         <li>Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)<ul>
@@ -164,16 +164,16 @@ __Events, Workshops, and Professional Development Modules:__
         <p><em>Total hours completed to date: 48</em></p>
       </div>
     </div>
-     <div class="card">
-    <div class="card-header" id="headingOne">
+     <div class="accordion">
+    <div class="accordion-header" id="headingFour">
       <h5 class="mb-0">
-        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
           June 9th, 2023
         </button>
       </h5>
     </div>
-    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-      <div class="card-body">
+    <div id="collapseOne" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+      <div class="accordion-body">
 <p><strong>Things I&#39;ve Been Working On:</strong></p>
 <ul>
 <li>Epistemic Network Analysis mini-project <a href="https://docs.google.com/document/d/1zhdwhAJ0nOPwBpWtf9XiII3TyIQaXo6EiT_xwwA0250/edit?usp=sharing">Proposal</a><ul>
@@ -218,17 +218,17 @@ __Events, Workshops, and Professional Development Modules:__
 
     </div>
    </div>
-   
-  <div class="card">
-    <div class="card-header" id="headingOne">
+
+  <div class="accordion">
+    <div class="accordion-header" id="headingFive">
       <h5 class="mb-0">
-        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
           26 May 2023
         </button>
       </h5>
     </div>
-    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-      <div class="card-body">
+    <div id="collapseOne" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
+      <div class="accordion-body">
             <b>Things I've Been Working On:</b>
             <ul>
                 <li> Epistemic Network Analysis mini-project <a href="https://docs.google.com/document/d/1zhdwhAJ0nOPwBpWtf9XiII3TyIQaXo6EiT_xwwA0250/edit?usp=sharing">Proposal</a>

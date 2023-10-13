@@ -39,7 +39,7 @@ __Events, Workshops, and Professional Development Modules:__
         </button>
       </h5>
     </div>
-    <div id="collapseOne" class="collapse" aria-labelledby="heading091423" data-parent="#accordion">
+    <div id="collapse091423" class="collapse" aria-labelledby="heading091423" data-parent="#accordion">
       <div class="card-body">
 <p><strong>Things I&#39;ve Been Working On:</strong></p>
 <ul>
@@ -71,14 +71,14 @@ __Events, Workshops, and Professional Development Modules:__
   </div>
 <div id="accordion">
      <div class="card">
-    <div class="card-header" id="headingOne">
+    <div class="card-header" id="heading090123">
       <h5 class="mb-0">
-        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapse090123" aria-expanded="true" aria-controls="collapse090123">
           September 1st, 2023
         </button>
       </h5>
     </div>
-    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+    <div id="collapse090123" class="collapse" aria-labelledby="heading090123" data-parent="#accordion">
       <div class="card-body">
 <p><strong>Things I&#39;ve Been Working On:</strong></p>
 <ul>
@@ -131,7 +131,7 @@ __Events, Workshops, and Professional Development Modules:__
         </button>
       </h5>
     </div>
-    <div id="collapseOne" class="collapse" aria-labelledby="heading080423" data-parent="#accordion">
+    <div id="collapse080423" class="collapse" aria-labelledby="heading080423" data-parent="#accordion">
       <div class="card-body">
 <p><strong>Things I&#39;ve Been Working On:</strong></p>
 <ul>
@@ -171,7 +171,7 @@ __Events, Workshops, and Professional Development Modules:__
         </button>
       </h5>
     </div>
-    <div id="collapseOne" class="collapse" aria-labelledby="heading060923" data-parent="#accordion">
+    <div id="collapse060923" class="collapse" aria-labelledby="heading060923" data-parent="#accordion">
       <div class="card-body">
 
 <p><strong>Things I&#39;ve Been Working On:</strong></p>

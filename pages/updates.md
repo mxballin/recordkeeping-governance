@@ -63,12 +63,13 @@ __Events, Workshops, and Professional Development Modules:__
       <p><strong>Upcoming Events, Workshops, and Professional Development Modules:</strong></p>
         <ul>
           <li>14 September — Diana Marsh virtual visit with the Records Continuum Research Group</li>
-        <li><p>Professional Development:</p>
-        <ul>
-          <li>14 September to 12 October (9 hours) - Ethical Research in IT</li>
-          <li>24 October to 9 November (10 hours)- Qualitative Research Methods</li>
-        </ul>
-        <p>Total hours completed to date: 51</p>
+        <li>
+          <p>Professional Development:</p>
+          <ul>
+            <li>14 September to 12 October (9 hours) - Ethical Research in IT</li>
+            <li>24 October to 9 November (10 hours)- Qualitative Research Methods</li>
+          </ul>
+          <p>Total hours completed to date: 51</p>
         </li>
         </ul>
       </div>
@@ -148,34 +149,38 @@ __Events, Workshops, and Professional Development Modules:__
       <div class="accordion-body">
         <p><strong>Things I&#39;ve Been Working On:</strong></p>
         <ul>
-        <li>Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)<ul>
-        <li>1 August - Ethics consultation with Henry Linger </li>
-        <li>Next steps:<ul>
-        <li>Revising <a href="https://docs.google.com/document/d/1tlpJCSd5iN0XOJaPCiGQ6wHCR5XFQZ5EMgOk8tkS2fI/edit?usp=sharing">Ethics Application</a></li>
-        </ul>
-        </li>
-        </ul>
-        </li>
-        <li>Information Architecture Design and Reform - IADR<ul>
-        <li><a href="/blog/commissions.html">Mapping Commission Recommendations</a></li>
-        <li>Conversations with Decisionmakers and Designers <a href="https://docs.google.com/document/d/10p5r_p8eAZ8mpvYM4pmiLVeaI6vmEDDYzblCkzr3iYY/edit?usp=sharing">Proposal</a></li>
-        <li><a href="https://docs.google.com/document/d/1Im3KftI3HSg0Fe4-FFToftiQrNp7waau/edit?usp=sharing&amp;ouid=106698260065842284739&amp;rtpof=true&amp;sd=true">Explanatory Statement</a></li>
-        <li>Next steps:<ul>
-        <li>Revise <a href="https://docs.google.com/document/d/1pN_cWehzD5Km2r61Dyba0TY_yt2S8bvVsSwd2UbKlaU/edit?usp=sharing">ethics application</a> following Joanne&#39;s review</li>
-        </ul>
-        </li>
-        </ul>
-        </li>
-        <li>Machine and Deep Learning Training</li>
+          <li>Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)
+            <ul>
+              <li>1 August - Ethics consultation with Henry Linger </li>
+              <li>Next steps:
+                <ul>
+                  <li>Revising <a href="https://docs.google.com/document/d/1tlpJCSd5iN0XOJaPCiGQ6wHCR5XFQZ5EMgOk8tkS2fI/edit?usp=sharing">Ethics Application</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>Information Architecture Design and Reform - IADR
+            <ul>
+              <li><a href="/blog/commissions.html">Mapping Commission Recommendations</a></li>
+              <li>Conversations with Decisionmakers and Designers <a href="https://docs.google.com/document/d/10p5r_p8eAZ8mpvYM4pmiLVeaI6vmEDDYzblCkzr3iYY/edit?usp=sharing">Proposal</a></li>
+              <li><a href="https://docs.google.com/document/d/1Im3KftI3HSg0Fe4-FFToftiQrNp7waau/edit?usp=sharing&amp;ouid=106698260065842284739&amp;rtpof=true&amp;sd=true">Explanatory Statement</a></li>
+              <li>Next steps:
+                <ul>
+                  <li>Revise <a href="https://docs.google.com/document/d/1pN_cWehzD5Km2r61Dyba0TY_yt2S8bvVsSwd2UbKlaU/edit?usp=sharing">ethics application</a> following Joanne&#39;s review</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>Machine and Deep Learning Training</li>
         </ul>
         <p><strong>Professional Development Modules:</strong></p>
-        <ul>
-        <li>Thesis Writing 2: Grammar for Editing Research Writing</li>
-        </ul>
-        <p><em>Total hours completed to date: 48</em></p>
+          <ul>
+            <li>Thesis Writing 2: Grammar for Editing Research Writing</li>
+          </ul>
+          <p><em>Total hours completed to date: 48</em></p>
       </div>
     </div>
-    
+  </div>
     
   <div class="accordion-item">
     <div class="accordion-header" id="headingFour">
@@ -228,9 +233,9 @@ __Events, Workshops, and Professional Development Modules:__
 <li>National Reconciliation Week - Documentary &#39;In My Blood It Runs&#39;</li>
 <li>Violet&#39;s Mid-Canditature Milestone</li>
 </ul>
-
     </div>
    </div>
+  </div>
 
   <div class="accordion-item" id="Five">
     <div class="accordion-header" id="headingFive">

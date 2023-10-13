@@ -31,7 +31,6 @@ __Events, Workshops, and Professional Development Modules:__
 
 # Past Updates
 <div class="accordion">
-
   <div class="accordion-item">
     <div class="accordion-header" id="headingOne">
       <h5 class="mb-0">
@@ -286,7 +285,7 @@ __Events, Workshops, and Professional Development Modules:__
 <div class="accordion" id="accordionExample">
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">
-      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+      <button class="accordion-butto collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
         Accordion Item #1
       </button>
     </h2>
@@ -333,7 +332,53 @@ __Events, Workshops, and Professional Development Modules:__
     </h2>
     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+          <p><strong>Things I&#39;ve Been Working On:</strong></p>
+        <ul>
+            <li><p>Provenance Paper - <a href="https://docs.google.com/document/d/1kq83mrJp6Vw1y7P2TyYxNxDo45bm6Tpc0xzc3pTjsQc/edit?usp=sharing">Abstract</a> submitted for consideration to the <a href="https://archivespublishing.com/2023/07/13/cfp-archival-science-special-issue-on-provenance/">Archival Science CFP</a> for a special issue on provenance</p>
+            <ul>
+              <li>This also sparked some ideas for the content/structure of my overall literature review
+              <ul>
+                <li>Themes/topics such as:
+                  <ul>
+                    <li>The history/development of the concept of a &quot;corporate parent&quot;</li>
+                    <li>Child liberation and abolition studies and the landscape of the welfare-industrial complex</li>
+                    <li>Personhood of children, both in records and in research</li>
+                  </ul>
+                </li>
+              </ul>
+              </li>
+            </ul>
+          </li>
+          <li><p>Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)</p>
+            <ul>
+              <li>Revising <a href="https://docs.google.com/document/d/1tlpJCSd5iN0XOJaPCiGQ6wHCR5XFQZ5EMgOk8tkS2fI/edit?usp=sharing">Ethics Application</a>
+              </li>
+            </ul>
+          </li>
+          <li>Information Architecture Design and Reform - IADR
+            <ul>
+              <li>
+              <a href="https://docs.google.com/document/d/1pN_cWehzD5Km2r61Dyba0TY_yt2S8bvVsSwd2UbKlaU/edit?usp=sharing">Ethics application</a> ready for submission following any information Melissa has regarding law ethics review.
+              </li>
+            </ul>
+          </li>
+          <li>Machine and Deep Learning Training</li>
+        </ul>
+        <p><strong>Upcoming Events, Workshops, and Professional Development Modules:</strong></p>
+        <ul>
+          <li>4-6 September - Australian Society of Archivists Annual Conference
+            <ul>
+              <li>Presenting: Ballin, Mya. (2023, September 4-7). <i>&#39;Never for the adoptee&#39;s benefit&#39;: Exploring adoptee perspectives on access, preservation, and ownership in the recordkeeping culture of transracial, transnational adoptions</i> [Conference presentation]. Australian Society of Archivists National Conference, Melbourne, Australia.</li>
+            </ul>
+          </li>
+          <li>Professional Development:
+            <ul>
+              <li>13 September (3 hours) - Academic Posters: preparing and presenting</li>
+              <li>14 September to 12 October (9 hours) - Ethical Research in IT</li>
+              <li>24 October to 9 November (10 hours)- Qualitative Research Methods</li>
+            </ul>
+          </li>
+        </ul>
       </div>
     </div>
   </div>
@@ -344,6 +389,42 @@ __Events, Workshops, and Professional Development Modules:__
       </button>
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingFour">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+        Accordion Item #4
+      </button>
+    </h2>
+    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingFive">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+        Accordion Item #5
+      </button>
+    </h2>
+    <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingSix">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+        Accordion Item #6
+      </button>
+    </h2>
+    <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
         <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
       </div>

@@ -64,12 +64,12 @@ __Events, Workshops, and Professional Development Modules:__
         <ul>
           <li>14 September — Diana Marsh virtual visit with the Records Continuum Research Group</li>
         <li>
-          <p>Professional Development:</p>
-          <ul>
-            <li>14 September to 12 October (9 hours) - Ethical Research in IT</li>
-            <li>24 October to 9 November (10 hours)- Qualitative Research Methods</li>
-          </ul>
-          <p>Total hours completed to date: 51</p>
+        <p>Professional Development:</p>
+        <ul>
+          <li>14 September to 12 October (9 hours) - Ethical Research in IT</li>
+          <li>24 October to 9 November (10 hours)- Qualitative Research Methods</li>
+        </ul>
+        <p>Total hours completed to date: 51</p>
         </li>
         </ul>
       </div>
@@ -233,6 +233,7 @@ __Events, Workshops, and Professional Development Modules:__
 <li>National Reconciliation Week - Documentary &#39;In My Blood It Runs&#39;</li>
 <li>Violet&#39;s Mid-Canditature Milestone</li>
 </ul>
+
     </div>
    </div>
   </div>
@@ -278,4 +279,74 @@ __Events, Workshops, and Professional Development Modules:__
             </ul>
         </div>
     </div>
+</div>
+
+
+
+<div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        Accordion Item #1
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <h2 id="since-we-last-met">Since We Last Met</h2>
+        <p><strong>Things I&#39;ve Been Working On:</strong></p>
+        <ul>
+          <li>Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)
+            <ul>
+              <li>Revising <a href="https://docs.google.com/document/d/1tlpJCSd5iN0XOJaPCiGQ6wHCR5XFQZ5EMgOk8tkS2fI/edit?usp=sharing">Ethics Application</a></li>
+              <li>Setting up a meeting with Nina Lewis</li>
+            </ul>
+          </li>
+          <li>Information Architecture Design and Reform - IADR
+            <ul>
+              <li>Submitted September 8</li>
+              <li>Setting up a meeting with Barbara Reed</li>
+            </ul>
+          </li>
+          <li>Machine and Deep Learning Training</li>
+          <li>8 September - 6 month review</li>
+        </ul>
+        <p><strong>Upcoming Events, Workshops, and Professional Development Modules:</strong></p>
+          <ul>
+            <li>14 September — Diana Marsh virtual visit with the Records Continuum Research Group</li>
+          <li>
+            <p>Professional Development:</p>
+            <ul>
+              <li>14 September to 12 October (9 hours) - Ethical Research in IT</li>
+              <li>24 October to 9 November (10 hours)- Qualitative Research Methods</li>
+            </ul>
+            <p>Total hours completed to date: 51</p>
+          </li>
+          </ul>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingTwo">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        Accordion Item #2
+      </button>
+    </h2>
+    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        Accordion Item #3
+      </button>
+    </h2>
+    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+      </div>
+    </div>
+  </div>
 </div>

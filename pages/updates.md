@@ -5,7 +5,7 @@ permalink: /updates.html
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-# September 14th, 2023
+# October 13th, 2023
 <hr/>
 
 ## Since We Last Met
@@ -13,24 +13,66 @@ permalink: /updates.html
 __Things I've Been Working On:__
 * Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)
     * Revising [Ethics Application](https://docs.google.com/document/d/1tlpJCSd5iN0XOJaPCiGQ6wHCR5XFQZ5EMgOk8tkS2fI/edit?usp=sharing)
-    * Setting up a meeting with Nina Lewis
+    * Met with Nina and am currently investigating literature to support writing a potential methodology
+      * Focusing on Institutional Ethnography, Action Research
 * Information Architecture Design and Reform - IADR
-    * Submitted September 8
-    * Setting up a meeting with Barbara Reed
+    * Have had some initial discussions with Barbara and Martine
+    * Continuing to identify individuals to recruit
 * Machine and Deep Learning Training
-* 8 September - 6 month review
 
-
-__Upcoming Events, Workshops, and Professional Development Modules:__
-* 14 September — Diana Marsh virtual visit with the Records Continuum Research Group
+__Events, Workshops, and Professional Development Modules:__
+* 12 September — Pelle Tracy virtual visit with the Records Continuum Research Group
 * Professional Development:
-  * 14 September to 12 October (9 hours) - Ethical Research in IT
-  * 24 October to 9 November (10 hours)- Qualitative Research Methods
+  * Completed: 14 September to 12 October (9 hours) - Ethical Research in IT
+  * Upcoming: 24 October to 9 November (10 hours)- Qualitative Research Methods
   
-  Total hours completed to date: 51
+  Total hours completed to date: 60
 
 
 # Past Updates
+<div id="accordion">
+     <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          September 14th, 2023
+        </button>
+      </h5>
+    </div>
+    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+      <div class="card-body">
+      <h1 id="september-14th-2023">September 14th, 2023</h1>
+<hr/>
+
+<h2 id="since-we-last-met">Since We Last Met</h2>
+<p><strong>Things I&#39;ve Been Working On:</strong></p>
+<ul>
+<li>Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)<ul>
+<li>Revising <a href="https://docs.google.com/document/d/1tlpJCSd5iN0XOJaPCiGQ6wHCR5XFQZ5EMgOk8tkS2fI/edit?usp=sharing">Ethics Application</a></li>
+<li>Setting up a meeting with Nina Lewis</li>
+</ul>
+</li>
+<li>Information Architecture Design and Reform - IADR<ul>
+<li>Submitted September 8</li>
+<li>Setting up a meeting with Barbara Reed</li>
+</ul>
+</li>
+<li>Machine and Deep Learning Training</li>
+<li>8 September - 6 month review</li>
+</ul>
+<p><strong>Upcoming Events, Workshops, and Professional Development Modules:</strong></p>
+<ul>
+<li>14 September — Diana Marsh virtual visit with the Records Continuum Research Group</li>
+<li><p>Professional Development:</p>
+<ul>
+<li>14 September to 12 October (9 hours) - Ethical Research in IT</li>
+<li>24 October to 9 November (10 hours)- Qualitative Research Methods</li>
+</ul>
+<p>Total hours completed to date: 51</p>
+</li>
+</ul>
+      </div>
+  </div>
 <div id="accordion">
      <div class="card">
     <div class="card-header" id="headingOne">

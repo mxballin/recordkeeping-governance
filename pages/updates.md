@@ -32,19 +32,15 @@ __Events, Workshops, and Professional Development Modules:__
 # Past Updates
 <div id="accordion">
      <div class="card">
-    <div class="card-header" id="headingOne">
+    <div class="card-header" id="heading091423">
       <h5 class="mb-0">
-        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapse091423" aria-expanded="true" aria-controls="collapse091423">
           September 14th, 2023
         </button>
       </h5>
     </div>
-    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+    <div id="collapseOne" class="collapse" aria-labelledby="heading091423" data-parent="#accordion">
       <div class="card-body">
-      <h1 id="september-14th-2023">September 14th, 2023</h1>
-<hr/>
-
-<h2 id="since-we-last-met">Since We Last Met</h2>
 <p><strong>Things I&#39;ve Been Working On:</strong></p>
 <ul>
 <li>Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)<ul>
@@ -128,14 +124,14 @@ __Events, Workshops, and Professional Development Modules:__
     </div>
 <div id="accordion">
      <div class="card">
-    <div class="card-header" id="headingOne">
+    <div class="card-header" id="heading080423">
       <h5 class="mb-0">
-        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapse080423" aria-expanded="true" aria-controls="collapse080423">
           August 4th, 2023
         </button>
       </h5>
     </div>
-    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+    <div id="collapseOne" class="collapse" aria-labelledby="heading080423" data-parent="#accordion">
       <div class="card-body">
 <p><strong>Things I&#39;ve Been Working On:</strong></p>
 <ul>
@@ -168,14 +164,14 @@ __Events, Workshops, and Professional Development Modules:__
 </div>
     </div>
      <div class="card">
-    <div class="card-header" id="headingOne">
+    <div class="card-header" id="heading060923">
       <h5 class="mb-0">
-        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapse060923" aria-expanded="true" aria-controls="collapse060923">
           June 9th, 2023
         </button>
       </h5>
     </div>
-    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+    <div id="collapseOne" class="collapse" aria-labelledby="heading060923" data-parent="#accordion">
       <div class="card-body">
 
 <p><strong>Things I&#39;ve Been Working On:</strong></p>
@@ -258,6 +254,7 @@ __Events, Workshops, and Professional Development Modules:__
             </ul>
                     <i>Total hours completed to date: 38</i>
             <b> Events and Workshops I've Attended:</b>
+            <ul>
                     <li> Participated in the <a href="https://www.qesoc.org/qe-data-challenge/">2023 QE Data Challenge</a>, 15 May - 19 May</li>
                     <li> Castan Centre for Human Rights Law Annual Lecture, 9 May</li>
             </ul>

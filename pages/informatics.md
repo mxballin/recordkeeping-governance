@@ -1,9 +1,9 @@
 ---
-title: Building a Bibliography: Informatics in Child Welfare
-layout: page
+title: Data
+layout: data
 permalink: /blog/informatics.html
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
+# see _data/config-table.csv for table display options
+# a table visualization will be added below the content in this file
 ---
 Beal, Sarah J., Linda Dynan, Abbie Patzke, Katie Nause, Kristine Flinchum, Jennie Cole, Nora Vish, and Mary V. Greiner. "Impact of Automated Information Sharing on Health Care Delivery to Youths in Foster Care." _The Journal of Pediatrics_ 249, (2022): 111-113.e1.
 

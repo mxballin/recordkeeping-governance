@@ -1,9 +1,9 @@
 ---
-title: Building a Bibliography: Child Abolition, Liberatory Practice, and the Welfare-Industrial Complex
+title: Child Liberation and Abolition
 layout: page
 permalink: /blog/abolition.html
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
+# see _data/config-table.csv for table display options
+# a table visualization will be added below the content in this file
 ---
 
 ## Child Liberation and Abolition

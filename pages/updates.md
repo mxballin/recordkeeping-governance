@@ -70,7 +70,6 @@ __Events, Workshops, and Professional Development Modules:__
         </ul>
       </div>
     </div>
-  </div>
 
 <div id="accordion">
   <div class="card">
@@ -175,7 +174,6 @@ __Events, Workshops, and Professional Development Modules:__
     </div>
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
       <div class="card-body">
-
 <p><strong>Things I&#39;ve Been Working On:</strong></p>
 <ul>
 <li>Epistemic Network Analysis mini-project <a href="https://docs.google.com/document/d/1zhdwhAJ0nOPwBpWtf9XiII3TyIQaXo6EiT_xwwA0250/edit?usp=sharing">Proposal</a><ul>
@@ -218,8 +216,9 @@ __Events, Workshops, and Professional Development Modules:__
 <li>Violet&#39;s Mid-Canditature Milestone</li>
 </ul>
 
-        </div>
     </div>
+   </div>
+   
   <div class="card">
     <div class="card-header" id="headingOne">
       <h5 class="mb-0">

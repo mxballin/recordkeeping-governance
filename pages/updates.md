@@ -5,7 +5,7 @@ permalink: /updates.html
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-# October 26th, 2023
+# October 27th, 2023
 <hr/>
 
 ## Since We Last Met

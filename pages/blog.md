@@ -24,7 +24,7 @@ permalink: /blog.html
   </div>
   <div class="card-body">
     <h5 class="card-title">Supererogation</h5>
-    <p class="card-text">Considering the presence of supererogation in child protection and allied disciplines and its relationship to responses to calls for reform. </p>
+    <p class="card-text">Considering the presence of supererogation in child protection and allied disciplines, its relationship to notions of corporate/government parenting, and its impact on reforms to child protection systems. </p>
     <a href="/blog/supererogation.html" class="btn btn-success">Read on</a>
   </div>
 </div>

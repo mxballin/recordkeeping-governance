@@ -20,14 +20,13 @@ __Things I've Been Working On:__
 __Events, Workshops, and Professional Development Modules:__
 * Professional Development:
   * Ongoing: 24 October to 9 November (10 hours)- Qualitative Research Methods
-  Total hours completed to date: 63
+
+Total hours completed to date: 63
 
 __Currently Reading:__
 * Scott, James C. Seeing like a state: How certain schemes to improve the human condition have failed. yale university Press, 2020.
 * Spade, Dean. Normal life: Administrative violence, critical trans politics, and the limits of law. Duke University Press, 2015.
 * White, G. R. T., Samuel, A., & Thomas, R. J. (2022). Exploring and Expanding Supererogatory Acts: Beyond Duty for a Sustainable Future. Journal of business ethics : JBE, 1–24. Advance online publication. https://doi.org/10.1007/s10551-022-05144-8
-
-
 
 
 # Past Updates

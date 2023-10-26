@@ -12,24 +12,59 @@ permalink: /updates.html
 
 __Things I've Been Working On:__
 * Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)
-    * Revising [Ethics Application](https://docs.google.com/document/d/1tlpJCSd5iN0XOJaPCiGQ6wHCR5XFQZ5EMgOk8tkS2fI/edit?usp=sharing)
-    * Met with Nina and am currently investigating literature to support writing a potential methodology
-      * Focusing on Institutional Ethnography, Action Research
+    * Pending Joanne's review of [Ethics Application](https://docs.google.com/document/d/1tlpJCSd5iN0XOJaPCiGQ6wHCR5XFQZ5EMgOk8tkS2fI/edit?usp=sharing)
 * Information Architecture Design and Reform - IADR
-    * Have had some initial discussions with Barbara and Martine
-    * Continuing to identify individuals to recruit
+    * Have sent some additional recruitment emails
 * Machine and Deep Learning Training
 
 __Events, Workshops, and Professional Development Modules:__
-* 12 September — Pelle Tracy virtual visit with the Records Continuum Research Group
 * Professional Development:
-  * Completed: 14 September to 12 October (9 hours) - Ethical Research in IT
-  * Upcoming: 24 October to 9 November (10 hours)- Qualitative Research Methods
-  
-  Total hours completed to date: 60
+  * Ongoing: 24 October to 9 November (10 hours)- Qualitative Research Methods
+  Total hours completed to date: 63
 
 
 # Past Updates
+<div id="accordion">
+  <div class="card">
+    <div class="card-header" id="heading102623">
+      <h5 class="mb-0">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapse102623" aria-expanded="true" aria-controls="collapse102623">
+          September 14th, 2023
+        </button>
+      </h5>
+    </div>
+    <div id="collapse102623" class="collapse" aria-labelledby="heading102623" data-parent="#accordion">
+      <div class="card-body">
+          <p><strong>Things I&#39;ve Been Working On:</strong></p>
+          <ul>
+          <li>Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)<ul>
+          <li>Revising <a href="https://docs.google.com/document/d/1tlpJCSd5iN0XOJaPCiGQ6wHCR5XFQZ5EMgOk8tkS2fI/edit?usp=sharing">Ethics Application</a></li>
+          <li>Met with Nina and am currently investigating literature to support writing a potential methodology<ul>
+          <li>Focusing on Institutional Ethnography, Action Research</li>
+          </ul>
+          </li>
+          </ul>
+          </li>
+          <li>Information Architecture Design and Reform - IADR<ul>
+          <li>Have had some initial discussions with Barbara and Martine</li>
+          <li>Continuing to identify individuals to recruit</li>
+          </ul>
+          </li>
+          <li>Machine and Deep Learning Training</li>
+          </ul>
+          <p><strong>Events, Workshops, and Professional Development Modules:</strong></p>
+          <ul>
+          <li>12 September — Pelle Tracy virtual visit with the Records Continuum Research Group</li>
+          <li><p>Professional Development:</p>
+          <ul>
+          <li>Completed: 14 September to 12 October (9 hours) - Ethical Research in IT</li>
+          <li>Upcoming: 24 October to 9 November (10 hours)- Qualitative Research Methods</li>
+          </ul>
+          <p>Total hours completed to date: 60</p>
+          </li>
+          </ul>
+      </div>
+    </div>
 <div id="accordion">
   <div class="card">
     <div class="card-header" id="heading091423">

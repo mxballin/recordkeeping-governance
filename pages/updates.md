@@ -5,7 +5,7 @@ permalink: /updates.html
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-# October 13th, 2023
+# October 26th, 2023
 <hr/>
 
 ## Since We Last Met
@@ -26,14 +26,14 @@ __Events, Workshops, and Professional Development Modules:__
 # Past Updates
 <div id="accordion">
   <div class="card">
-    <div class="card-header" id="heading102623">
+    <div class="card-header" id="heading101323">
       <h5 class="mb-0">
-        <button class="btn btn-link" data-toggle="collapse" data-target="#collapse102623" aria-expanded="true" aria-controls="collapse102623">
-          September 14th, 2023
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapse101323" aria-expanded="true" aria-controls="collapse101323">
+          October 13, 2023
         </button>
       </h5>
     </div>
-    <div id="collapse102623" class="collapse" aria-labelledby="heading102623" data-parent="#accordion">
+    <div id="collapse101323" class="collapse" aria-labelledby="heading101323" data-parent="#accordion">
       <div class="card-body">
           <p><strong>Things I&#39;ve Been Working On:</strong></p>
           <ul>

@@ -18,6 +18,16 @@ permalink: /blog.html
     <a href="/blog/commissions.html" class="btn btn-success">Read on</a>
   </div>
 </div>
+<div class="card" style="width: 18rem;">
+  <div class="card-header" style="font-size: 12px; color: #e5e9ec; background-color: #B8B42D;">
+    December 26, 2021
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Supererogation</h5>
+    <p class="card-text">Considering the presence of supererogation in child protection and allied disciplines and its relationship to responses to calls for reform. </p>
+    <a href="/blog/supererogation.html" class="btn btn-success">Read on</a>
+  </div>
+</div>
 </div>
 
 <br>

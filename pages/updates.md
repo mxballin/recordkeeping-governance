@@ -5,32 +5,74 @@ permalink: /updates.html
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-# October 27th, 2023
+# November 17th, 2023
 <hr/>
 
 ## Since We Last Met
 
 __Things I've Been Working On:__
 * Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)
-    * Pending Joanne's review of [Ethics Application](https://docs.google.com/document/d/1tlpJCSd5iN0XOJaPCiGQ6wHCR5XFQZ5EMgOk8tkS2fI/edit?usp=sharing)
+    * 14 November - Full Ethics Committee Review 
 * Information Architecture Design and Reform - IADR
-    * Have sent some additional recruitment emails
-* Machine and Deep Learning Training
+    * 17 November - Meeting with Kirsten
 
 __Events, Workshops, and Professional Development Modules:__
 * Professional Development:
-  * Ongoing: 24 October to 9 November (10 hours)- Qualitative Research Methods
+  Upcoming:
+  * 22 & 23 November (7 Hours) - Data Fluency: Introduction to the Unix shell and command line interface
+  Recently completed:
+  *24 October to 9 November (10 hours)- Qualitative Research Methods
 
-Total hours completed to date: 63
+Total hours to date: 70
 
 __Currently Reading:__
 * Scott, James C. Seeing like a state: How certain schemes to improve the human condition have failed. yale university Press, 2020.
 * Spade, Dean. Normal life: Administrative violence, critical trans politics, and the limits of law. Duke University Press, 2015.
 * White, G. R. T., Samuel, A., & Thomas, R. J. (2022). Exploring and Expanding Supererogatory Acts: Beyond Duty for a Sustainable Future. Journal of business ethics : JBE, 1–24. Advance online publication. https://doi.org/10.1007/s10551-022-05144-8
+* Sangster, Kirsty. 1999. “Truth Commissions: The Usefulness of Truth-Telling.” Australian Journal of Human Rights 5 (1): 136–58. https://doi.org/10.1080/1323238X.1999.11911011.
+
 
 
 # Past Updates
 <div id="accordion">
+<div class="card">
+    <div class="card-header" id="heading102723">
+      <h5 class="mb-0">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapse102723" aria-expanded="true" aria-controls="collapse102723">
+          October 27, 2023
+        </button>
+      </h5>
+    </div>
+    <div id="collapse102723" class="collapse" aria-labelledby="heading102723" data-parent="#accordion">
+      <div class="card-body">
+          <p><strong>Things I&#39;ve Been Working On:</strong></p>
+<ul>
+<li>Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)<ul>
+<li>Pending Joanne&#39;s review of <a href="https://docs.google.com/document/d/1tlpJCSd5iN0XOJaPCiGQ6wHCR5XFQZ5EMgOk8tkS2fI/edit?usp=sharing">Ethics Application</a></li>
+</ul>
+</li>
+<li>Information Architecture Design and Reform - IADR<ul>
+<li>Have sent some additional recruitment emails</li>
+</ul>
+</li>
+<li>Machine and Deep Learning Training</li>
+</ul>
+<p><strong>Events, Workshops, and Professional Development Modules:</strong></p>
+<ul>
+<li>Professional Development:<ul>
+<li>Ongoing: 24 October to 9 November (10 hours)- Qualitative Research Methods</li>
+</ul>
+</li>
+</ul>
+<p>Total hours completed to date: 63</p>
+<p><strong>Currently Reading:</strong></p>
+<ul>
+<li>Scott, James C. Seeing like a state: How certain schemes to improve the human condition have failed. yale university Press, 2020.</li>
+<li>Spade, Dean. Normal life: Administrative violence, critical trans politics, and the limits of law. Duke University Press, 2015.</li>
+<li>White, G. R. T., Samuel, A., &amp; Thomas, R. J. (2022). Exploring and Expanding Supererogatory Acts: Beyond Duty for a Sustainable Future. Journal of business ethics : JBE, 1–24. Advance online publication. <a href="https://doi.org/10.1007/s10551-022-05144-8">https://doi.org/10.1007/s10551-022-05144-8</a></li>
+</ul>
+      </div>
+    </div>
   <div class="card">
     <div class="card-header" id="heading101323">
       <h5 class="mb-0">
@@ -71,7 +113,6 @@ __Currently Reading:__
           </ul>
       </div>
     </div>
-<div id="accordion">
   <div class="card">
     <div class="card-header" id="heading091423">
       <h5 class="mb-0">
@@ -110,7 +151,6 @@ __Currently Reading:__
         </ul>
       </div>
     </div>
-<div id="accordion">
      <div class="card">
     <div class="card-header" id="heading090123">
       <h5 class="mb-0">
@@ -163,7 +203,6 @@ __Currently Reading:__
 
 </div>
 </div>
-<div id="accordion">
      <div class="card">
     <div class="card-header" id="heading080423">
       <h5 class="mb-0">
@@ -201,7 +240,6 @@ __Currently Reading:__
 <li>Thesis Writing 2: Grammar for Editing Research Writing</li>
 </ul>
 <p><em>Total hours completed to date: 48</em></p>
-
 </div>
     </div>
      <div class="card">
@@ -214,7 +252,6 @@ __Currently Reading:__
     </div>
     <div id="collapse060923" class="collapse" aria-labelledby="heading060923" data-parent="#accordion">
       <div class="card-body">
-
 <p><strong>Things I&#39;ve Been Working On:</strong></p>
 <ul>
 <li>Epistemic Network Analysis mini-project <a href="https://docs.google.com/document/d/1zhdwhAJ0nOPwBpWtf9XiII3TyIQaXo6EiT_xwwA0250/edit?usp=sharing">Proposal</a><ul>
@@ -256,7 +293,6 @@ __Currently Reading:__
 <li>National Reconciliation Week - Documentary &#39;In My Blood It Runs&#39;</li>
 <li>Violet&#39;s Mid-Canditature Milestone</li>
 </ul>
-
         </div>
     </div>
   <div class="card">

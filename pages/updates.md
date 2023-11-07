@@ -18,10 +18,11 @@ __Things I've Been Working On:__
 
 __Events, Workshops, and Professional Development Modules:__
 * Professional Development:
-  Upcoming:
-  * 22 & 23 November (7 Hours) - Data Fluency: Introduction to the Unix shell and command line interface
-  Recently completed:
-  *24 October to 9 November (10 hours)- Qualitative Research Methods
+  * Upcoming - 22 & 23 November (7 Hours) - Data Fluency: Introduction to the Unix shell and command line interface
+  *Recently completed - 24 October to 9 November (10 hours)- Qualitative Research Methods
+
+* Conference presentation:
+  * 30 November / 1 December - RAILS [https://railsconference.wordpress.com/]
 
 Total hours to date: 70
 

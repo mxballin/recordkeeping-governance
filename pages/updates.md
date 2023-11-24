@@ -15,7 +15,8 @@ __Things I've Been Working On:__
     * 20 November - Submitted revised ethics application 
 * Information Architecture Design and Reform - IADR
     * Continued recruiting - scheduling with 2 participants
-    * Complimentary project with Kirsten - Tracking Tendanya 
+    * Complementary project with Kirsten - Tracking Tendanya
+      * Devising a method for holding people to account/sustaining interest 
 
 __Events, Workshops, and Professional Development Modules:__
 * Professional Development:

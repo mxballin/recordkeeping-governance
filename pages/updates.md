@@ -5,26 +5,24 @@ permalink: /updates.html
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-# November 17th, 2023
+# November 24th, 2023
 <hr/>
 
 ## Since We Last Met
 
 __Things I've Been Working On:__
 * Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)
-    * 14 November - Full Ethics Committee Review 
+    * 20 November - Submitted revised ethics application 
 * Information Architecture Design and Reform - IADR
-    * 17 November - Meeting with Kirsten
+    * Continued recruiting - scheduling with 2 participants
+    * Complimentary project with Kirsten - Tracking Tendanya 
 
 __Events, Workshops, and Professional Development Modules:__
 * Professional Development:
-  * Upcoming - 22 & 23 November (7 Hours) - Data Fluency: Introduction to the Unix shell and command line interface
   * Recently completed - 24 October to 9 November (10 hours)- Qualitative Research Methods
 
 * Conference presentation:
   * 30 November / 1 December - RAILS [https://railsconference.wordpress.com/]
-
-Total hours to date: 70
 
 __Currently Reading:__
 * Scott, James C. Seeing like a state: How certain schemes to improve the human condition have failed. yale university Press, 2020.

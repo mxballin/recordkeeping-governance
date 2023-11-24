@@ -22,7 +22,7 @@ __Events, Workshops, and Professional Development Modules:__
   * Recently completed - 24 October to 9 November (10 hours)- Qualitative Research Methods
 
 * Conference presentation:
-  * 30 November / 1 December - RAILS [https://railsconference.wordpress.com/]
+  * 30 November / 1 December - [RAILS](https://railsconference.wordpress.com/)
 
 __Currently Reading:__
 * Scott, James C. Seeing like a state: How certain schemes to improve the human condition have failed. yale university Press, 2020.

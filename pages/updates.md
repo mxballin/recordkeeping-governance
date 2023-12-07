@@ -51,6 +51,7 @@ __Currently Reading:__
       <div class="card-body">
 <p><strong>Things I&#39;ve Been Working On:</strong></p>
 <ul>
+<li> Submission to Te Rua Mahara Archives New Zealand on their draft scope and definition of care records</li>
 <li>Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)<ul>
 <li>20 November - Submitted revised ethics application </li>
 </ul>

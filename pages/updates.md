@@ -15,17 +15,11 @@ __Things I've Been Working On:__
     * 29 November - Approved to commence project
     * Initial sponsorship request made with DFFH contacts, waiting to hear back
       * Requirement for submitting to ethics committee
-      * Jade might have another contact in the Family Services, Evidence and Quality Improvement Branch - am currently ckecing with her
+      * Jade might have another contact in the Family Services, Evidence and Quality Improvement Branch - am currently checking with her and will potentially cold email
 * Information Architecture Design and Reform - IADR
     * First interview on 19 December
 
 __Events, Workshops, and Professional Development Modules:__
-* Professional Development:
-  * Recently completed - 24 October to 9 November (10 hours)- Qualitative Research Methods
-
-* Conference presentation:
-  * 30 November / 1 December - [RAILS](https://railsconference.wordpress.com/)
-
 * Events
   * 7 December - OPEN Forum: Innovations in Out of Home Care series - Enhancing decision-making and supporting informal relationships for better outcomes for care-experienced young people
 

@@ -5,18 +5,19 @@ permalink: /updates.html
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-# November 24th, 2023
+# December 7th, 2023
 <hr/>
 
 ## Since We Last Met
 
 __Things I've Been Working On:__
-* Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)
-    * 20 November - Submitted revised ethics application 
+* Child Consent in the Creation of Datasets - C3D
+    * 29 November - Approved to commence project
+    * Initial sponsorship request made with DFFH contacts, waiting to hear back
+      * Requirement for submitting to ethics committee
+      * Jade might have another contact in the Family Services, Evidence and Quality Improvement Branch - am currently ckecing with her
 * Information Architecture Design and Reform - IADR
-    * Continued recruiting - scheduling with 2 participants
-    * Complementary project with Kirsten - Tracking Tendanya
-      * Devising a method for holding people to account/sustaining interest 
+    * First interview on 19 December
 
 __Events, Workshops, and Professional Development Modules:__
 * Professional Development:
@@ -24,6 +25,9 @@ __Events, Workshops, and Professional Development Modules:__
 
 * Conference presentation:
   * 30 November / 1 December - [RAILS](https://railsconference.wordpress.com/)
+
+* Events
+  * 7 December - OPEN Forum: Innovations in Out of Home Care series - Enhancing decision-making and supporting informal relationships for better outcomes for care-experienced young people
 
 __Currently Reading:__
 * Scott, James C. Seeing like a state: How certain schemes to improve the human condition have failed. yale university Press, 2020.

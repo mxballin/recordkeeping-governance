@@ -36,6 +36,53 @@ __Currently Reading:__
 # Past Updates
 <div id="accordion">
 <div class="card">
+    <div class="card-header" id="heading112423">
+      <h5 class="mb-0">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapse112423" aria-expanded="true" aria-controls="collapse112423">
+          November 24, 2023
+        </button>
+      </h5>
+    </div>
+    <div id="collapse112423" class="collapse" aria-labelledby="heading112423" data-parent="#accordion">
+      <div class="card-body">
+<p><strong>Things I&#39;ve Been Working On:</strong></p>
+<ul>
+<li>Child Consent in the Creation of Datasets - C3D (Formerly Epistemic Network Analysis mini-project)<ul>
+<li>20 November - Submitted revised ethics application </li>
+</ul>
+</li>
+<li>Information Architecture Design and Reform - IADR<ul>
+<li>Continued recruiting - scheduling with 2 participants</li>
+<li>Complementary project with Kirsten - Tracking Tendanya<ul>
+<li>Devising a method for holding people to account/sustaining interest </li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>Events, Workshops, and Professional Development Modules:</strong></p>
+<ul>
+<li><p>Professional Development:</p>
+<ul>
+<li>Recently completed - 24 October to 9 November (10 hours)- Qualitative Research Methods</li>
+</ul>
+</li>
+<li><p>Conference presentation:</p>
+<ul>
+<li>30 November / 1 December - <a href="https://railsconference.wordpress.com/">RAILS</a></li>
+</ul>
+</li>
+</ul>
+<p><strong>Currently Reading:</strong></p>
+<ul>
+<li>Scott, James C. Seeing like a state: How certain schemes to improve the human condition have failed. yale university Press, 2020.</li>
+<li>Spade, Dean. Normal life: Administrative violence, critical trans politics, and the limits of law. Duke University Press, 2015.</li>
+<li>White, G. R. T., Samuel, A., &amp; Thomas, R. J. (2022). Exploring and Expanding Supererogatory Acts: Beyond Duty for a Sustainable Future. Journal of business ethics : JBE, 1–24. Advance online publication. <a href="https://doi.org/10.1007/s10551-022-05144-8">https://doi.org/10.1007/s10551-022-05144-8</a></li>
+<li>Sangster, Kirsty. 1999. “Truth Commissions: The Usefulness of Truth-Telling.” Australian Journal of Human Rights 5 (1): 136–58. <a href="https://doi.org/10.1080/1323238X.1999.11911011">https://doi.org/10.1080/1323238X.1999.11911011</a>.</li>
+</ul>
+      </div>
+    </div>
+<div class="card">
     <div class="card-header" id="heading102723">
       <h5 class="mb-0">
         <button class="btn btn-link" data-toggle="collapse" data-target="#collapse102723" aria-expanded="true" aria-controls="collapse102723">

@@ -1,0 +1,71 @@
+---
+title: "PhD Gantt Chart"
+format: html
+theme: sandstone
+mermaid:
+      theme: neutral
+editor: visual
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{mermaid}
+gantt
+    title Research Timeline
+    dateFormat YYYY-MM-DD
+    axisFormat %b, %Y
+    section Overall Project
+      Provenance Paper Submitted to Archival Science:     crit, milestone, 2024-01-31, 0d
+      Confirmation Milestone:                             crit, milestone, 2024-03-06,0d
+      ESWRA Conference:                                         milestone,2024-04-17,0d
+      ASA/ARANZ Conference:                                     milestone,2024-10-27,2d
+      Progress Review Milestone:                          crit, milestone,2025-03-12,0d
+      Final Review Milestone:                             crit, milestone,2026-03-12,0d
+      Thesis Submission Date:                             crit, milestone,2026-09-10,0d
+      Supervisors on leave:                               crit, 2024-03-25,2024-06-07
+    section Supererogation
+      Literature review:                                  active, 2023-11-01,2024-04-01
+      Initial writing:                                            2024-04-01,2024-06-07
+      Draft provided to supervisors for feedback:         crit, milestone,2024-06-07,0d
+      Revising paper:                                             2024-06-07,2024-08-30
+      Circulate abstract for publication:                 crit, milestone,2024-08-30,0d
+    section ANZUK Policy Analysis
+      Policy Survey & Selection:                          active, 2023-11-01,2024-03-01
+      Dataset Familiarisation:                                  2024-03-01,2024-04-30
+      Coding:                                                   2024-05-01,2024-06-15
+      Generating initial themes:                                2024-06-15,2024-07-30
+      Developing and reviewing themes:                          2024-08-01,2024-10-30
+      Refining, defining and naming themes:                     2024-11-01,2024-12-30
+      Writing up:                                               2025-01-01,2025-02-15
+      Revisions:                                                2025-02-15,2025-03-12
+      Submit to panel for progress review milestone:      crit, milestone,2025-03-12,0d
+    section IADR
+      Participant Recruitment:                            active, 2023-09-28,2025-01-30
+      Participant Interviews:                             active,2023-12-01, 2025-04-30
+      Interview Transcription:                            active,2023-12,2025-05-30
+      Dataset Familiarisation:                                  2024-04,2025-06-30
+      Coding:                                                   2025-06-30,2025-09-01
+      Generating initial themes:                                2025-09-01,2025-10-30
+      Developing and reviewing themes:                          2025-11-01,2026-01-30
+      Refining, defining and naming themes:                     2026-02-01,2026-03-15
+      Writing up:                                               2026-03-15,2026-06-30
+      Revisions:                                                2026-07-01,2026-09-10
+    section C3D
+    Write up initial analysis of position:                      2024-03-01,2024-05-30
+
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).

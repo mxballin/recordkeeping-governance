@@ -10,7 +10,7 @@ permalink: /blog.html
 <div class="row">
 <div class="card" style="width: 18rem;">
   <div class="card-header" style="font-size: 12px; color: #e5e9ec; background-color: #B8B42D;">
-    December 26, 2021
+    ~~~
   </div>
   <div class="card-body">
     <h5 class="card-title">Mapping Commissions</h5>
@@ -20,7 +20,7 @@ permalink: /blog.html
 </div>
 <div class="card" style="width: 18rem;">
   <div class="card-header" style="font-size: 12px; color: #e5e9ec; background-color: #B8B42D;">
-    December 26, 2021
+    ~~~
   </div>
   <div class="card-body">
     <h5 class="card-title">Supererogation</h5>
@@ -36,7 +36,7 @@ permalink: /blog.html
 <div class="row">
 <div class="card" style="width: 18rem;">
   <div class="card-header" style="font-size: 12px; color: #e5e9ec; background-color: #B8B42D;">
-    December 26, 2021
+    ~~~
   </div>
   <div class="card-body">
     <h5 class="card-title">Building a Bibliography: Digital Ethics of Care</h5>
@@ -47,7 +47,7 @@ permalink: /blog.html
 
 <div class="card" style="width: 18rem;">
   <div class="card-header" style="font-size: 12px; color: #e5e9ec; background-color: #B8B42D;">
-    December 26, 2021
+    ~~~
   </div>
   <div class="card-body">
     <h5 class="card-title">Building a Bibliography: Informatics in Child Welfare</h5>
@@ -58,7 +58,7 @@ permalink: /blog.html
 
 <div class="card" style="width: 18rem;">
   <div class="card-header" style="font-size: 12px; color: #e5e9ec; background-color: #B8B42D;">
-    December 26, 2021
+    ~~~
   </div>
   <div class="card-body">
     <h5 class="card-title">Building a Bibliography: Child Liberation, Abolition, and the Welfare-Industrial Complex</h5>

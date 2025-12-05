@@ -19,7 +19,7 @@ permalink: /zine.html
             {% include feature/blockquote.html text="Were [sic] still allowed to have a camera yet, but since we haven’t one, we’ll have to borrow someones. We’re intending to take pictures before our cameras get banned, if they ever do." author="Sumi Mototsune" citation="Letter to Joan Gillis, July 31, 1942"%}
         </div>
         <div class="col-md-6">
-            {% include feature/image.html objectid="https://cdn.discordapp.com/attachments/798302352737566730/875439834196488232/kodakcameras_1_of_1.jpg" alt="Two Kodak Cameras, the Bantam Fixed Viewfinder and the Retina sit on a wooden table with a white background" caption="Cameras such as the Kodak Bantam and Kodak Retina, shown here, were models available during the 1940s. It is unknown what specific types of cameras were accessible to our correspondents when they were able to use them." width="100" %}
+            {% include feature/image.html objectid="research017" alt="Two Kodak Cameras, the Bantam Fixed Viewfinder and the Retina sit on a wooden table with a white background" caption="Cameras such as the Kodak Bantam and Kodak Retina, shown here, were models available during the 1940s. It is unknown what specific types of cameras were accessible to our correspondents when they were able to use them." width="100" %}
         </div>
     </div>
 </div>
@@ -64,7 +64,7 @@ permalink: /zine.html
 
 <p style="text-indent: 25px;">The news that Joan was able to provide in her letters was precious. Sumi describes her eagerness in receiving them in a letter to Joan dated May 16, 1942: "I recognized your writing on the envelope and ripped it open & read it immediately. The way how I threw down my hoe to read it, my mother knew who the letter was from. I read your letters, I don’t know how many times."</p>
 
-{% include feature/card.html header="Example: Please Write Soon" text="<small>Image description: A series of excerpts from multiple letters written by multiple authors featuring instances in which the correspondents asked Joan to write to them soon. </small><br>Postscripts asking Joan to write as soon as she could are common throughout the letters, as are descriptions of how her letters were able to give them a slice of the life they were missing." objectid="objects/PleaseWriteSoon.jpg" width="75" centered=true %}
+{% include feature/card.html header="Example: Please Write Soon" text="<small>Image description: A series of excerpts from multiple letters written by multiple authors featuring instances in which the correspondents asked Joan to write to them soon. </small><br>Postscripts asking Joan to write as soon as she could are common throughout the letters, as are descriptions of how her letters were able to give them a slice of the life they were missing." objectid="research017" width="75" centered=true %}
 
 
 <p style="text-indent: 25px;">But while Joan was able to provide many tales of Queen Elizabeth High School and what it was like at home in the New Westminster area, neither her letters nor those of the correspondents were free from the scrutiny of the Canadian government.</p>
@@ -82,14 +82,14 @@ permalink: /zine.html
 <p style="text-indent: 25px;">Of the letters from the Gillis fonds that are included in this exhibit, none of them were expressly censored by those that read them. It is possible that, through trial and error, the letter writers knew what not to include, or perhaps it is that there was much less concern on the part of the censor regarding what information about the conditions Japanese Canadians were living in was getting out to a white teenager in B.C. Either way, despite the fact that there are no marks of censorship on the letters, traces of their having read the letters remain in the form of stamps on the envelopes confirming their passing inspection.</p>
     </div>
     <div class="col-md-6 my-auto">
-{% include feature/item-figure.html objectid="gillis006" width="100" %}
+{% include feature/item-figure.html objectid="research017" width="100" %}
     </div>
       
 
 <p style="text-indent: 25px;">We also see traces of censorship activity in the content of the letters themselves. While the information going to Joan may not have been censored, it appears that many of the letters that she sent to her friends were.</p>
 
 {% include feature/card.html header="Example: The Old Peat Plant" text="<small>No Joan, I do not know what kind of secret, if any, that old peat plant is, but I guess the censor does know what to censor eh what? — Letter from Yoshio Nakamura to Joan Gillis, August 26, 1942</small>
-<p>Peat was used during WWII to pack munitions and in the construction of fire bombs. It is possible that information about the peat plant that Joan was working at was censored for this reason.</p>" objectid="https://cdn.discordapp.com/attachments/798302352737566730/868167545402843136/Screen_Shot_2021-07-23_at_9.27.14_AM.png" width="75" centered=true %}
+<p>Peat was used during WWII to pack munitions and in the construction of fire bombs. It is possible that information about the peat plant that Joan was working at was censored for this reason.</p>" objectid="research017" width="75" centered=true %}
 
 <div class="container">
   <div class="row justify-content-center">
